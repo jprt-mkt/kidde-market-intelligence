@@ -9,14 +9,12 @@ import json
 import requests
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
-import anthropic
 import time
 
 class DataCollector:
     def __init__(self):
         self.serper_key = os.getenv('SERPER_API_KEY')
         self.news_api_key = os.getenv('NEWS_API_KEY')
-        self.anthropic_key = os.getenv('ANTHROPIC_API_KEY')
         self.data = {
             'lastUpdate': datetime.now().isoformat(),
             'regulations': [],
@@ -73,28 +71,7 @@ class DataCollector:
         except Exception as e:
             print(f"Erro ao buscar notícias: {e}")
             return []
-    
-    def analyze_with_claude(self, content, prompt):
-        """Usa Claude API para análise inteligente de dados"""
-        if not self.anthropic_key:
-            print("⚠️  ANTHROPIC_API_KEY não configurada")
-            return None
-        
-        try:
-            client = anthropic.Anthropic(api_key=self.anthropic_key)
-            message = client.messages.create(
-                model="claude-sonnet-4-20250514",
-                max_tokens=1000,
-                messages=[{
-                    "role": "user",
-                    "content": f"{prompt}\n\nConteúdo:\n{content}"
-                }]
-            )
-            return message.content[0].text
-        except Exception as e:
-            print(f"Erro na análise com Claude: {e}")
-            return None
-    
+           
     def collect_regulations(self):
         """Coleta informações sobre regulamentação"""
         print("📋 Coletando dados de regulamentação...")
