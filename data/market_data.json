@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-26T10:30:39.168633",
+  "lastUpdate": "2026-02-26T10:32:40.785584",
   "regulations": [
     {
       "date": "2026-02-26",
@@ -28,10 +28,10 @@
     {
       "date": "2026-02-26",
       "country": "América Latina",
-      "title": "Cómo enfrentarse a un incendio siguiendo la NOM-002 - Buk",
+      "title": "[PDF] Guía 002: Incendios - Gob MX",
       "impact": "Alto",
-      "description": "Aprende cómo cumplir la NOM-002 y proteger a tus colaboradores con medidas efectivas de prevención y respuesta ante incendios.",
-      "source": "https://www.buk.mx/blog/nom-002-como-prevenir-incendio"
+      "description": "La NOM-002-STPS-2010, rige en el territorio nacional y aplica en todos los centros de trabajo. Page 7. 7. Ahora, para la correcta interpretación de la norma, es ...",
+      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
       "date": "2026-02-26",
@@ -44,10 +44,10 @@
     {
       "date": "2026-02-26",
       "country": "Chile",
-      "title": "Actualización: situación del uso del fuego como quema controlada",
+      "title": "[PDF] Publicación del Sábado 16 de Agosto de 2025 - Diario Oficial",
       "impact": "Alto",
-      "description": "Restringe uso del fuego | Se restringe desde el 20 de noviembre de 2025 y hasta que las condiciones sean favorables para realizar quemas controladas. Región ...",
-      "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
+      "description": "La declaración de emergencia preventiva será fundada y expedida por decreto del Ministerio del Interior y Seguridad Pública 'por orden del.",
+      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/08/16/44226/01/2684954.pdf"
     },
     {
       "date": "2026-02-26",
@@ -147,14 +147,14 @@
       "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Camera installed in South America's tallest building to detect forest ...",
+      "project": "Latin American Shopping Chain Centralizes Security And ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A modern camera for the remote detection and localization of forest fires has been installed on the 62nd floor of the Sky Costanera Viewpoint.",
-      "source": "https://www.gob.cl/en/news/camera-installed-in-south-americas-tallest-building-to-detect-forest-fires/"
+      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
+      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
   "peopleMovements": [],
