@@ -42,11 +42,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/ private/
+          git add data/ public/
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Atualização automática $(date +'%Y-%m-%d %H:%M')" && git push)
           
       - name: Deploy para GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./private
+          publish_dir: ./public
