@@ -1,0 +1,56 @@
+{
+  "lastUpdate": "2026-02-26T10:15:24.908538",
+  "regulations": [],
+  "macroEconomic": [
+    {
+      "country": "Brazil",
+      "gdp": "Verificar fonte",
+      "inflation": "Verificar fonte",
+      "construction": "Verificar fonte",
+      "investment": "Verificar fonte",
+      "trend": "neutral",
+      "source": ""
+    },
+    {
+      "country": "Mexico",
+      "gdp": "Verificar fonte",
+      "inflation": "Verificar fonte",
+      "construction": "Verificar fonte",
+      "investment": "Verificar fonte",
+      "trend": "neutral",
+      "source": ""
+    },
+    {
+      "country": "Chile",
+      "gdp": "Verificar fonte",
+      "inflation": "Verificar fonte",
+      "construction": "Verificar fonte",
+      "investment": "Verificar fonte",
+      "trend": "neutral",
+      "source": ""
+    },
+    {
+      "country": "Colombia",
+      "gdp": "Verificar fonte",
+      "inflation": "Verificar fonte",
+      "construction": "Verificar fonte",
+      "investment": "Verificar fonte",
+      "trend": "neutral",
+      "source": ""
+    },
+    {
+      "country": "Argentina",
+      "gdp": "Verificar fonte",
+      "inflation": "Verificar fonte",
+      "construction": "Verificar fonte",
+      "investment": "Verificar fonte",
+      "trend": "neutral",
+      "source": ""
+    }
+  ],
+  "competitorMoves": [],
+  "newProducts": [],
+  "majorProjects": [],
+  "peopleMovements": [],
+  "experts": []
+}
