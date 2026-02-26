@@ -1,0 +1,97 @@
+{
+  "lastUpdate": "2025-02-24T10:30:00",
+  "regulations": [
+    {
+      "date": "2025-02-20",
+      "country": "Brasil",
+      "title": "ABNT NBR 17240:2025 - Nova revisão publicada",
+      "impact": "Alto",
+      "description": "Atualização das normas de sistemas de detecção e alarme de incêndio com requisitos mais rigorosos de integração IoT e conectividade",
+      "source": "https://www.abnt.org.br"
+    },
+    {
+      "date": "2025-02-15",
+      "country": "México",
+      "title": "NOM-002-STPS-2025 entra em vigor",
+      "impact": "Médio",
+      "description": "Condições de segurança - prevenção e proteção contra incêndios nos centros de trabalho",
+      "source": ""
+    }
+  ],
+  "macroEconomic": [
+    {
+      "country": "Brasil",
+      "gdp": "+2.8%",
+      "inflation": "4.2%",
+      "construction": "+5.1%",
+      "investment": "Crescente",
+      "trend": "up",
+      "source": ""
+    },
+    {
+      "country": "México",
+      "gdp": "+3.2%",
+      "inflation": "3.8%",
+      "construction": "+4.2%",
+      "investment": "Estável",
+      "trend": "up",
+      "source": ""
+    }
+  ],
+  "competitorMoves": [
+    {
+      "date": "2025-02-22",
+      "company": "Honeywell",
+      "action": "Lançamento de produto",
+      "detail": "Nova linha NOTIFIER ONYX NFS2-640 com IA integrada para América Latina",
+      "impact": "Alto",
+      "source": ""
+    },
+    {
+      "date": "2025-02-18",
+      "company": "Intelbras",
+      "action": "Expansão regional",
+      "detail": "Abertura de centro de distribuição em Bogotá, Colômbia",
+      "impact": "Médio",
+      "source": ""
+    }
+  ],
+  "newProducts": [
+    {
+      "company": "Honeywell",
+      "product": "NOTIFIER ONYX NFS2-640",
+      "features": "IA para detecção preditiva, 640 pontos endereçáveis, integração cloud",
+      "availability": "Mar/2025"
+    }
+  ],
+  "majorProjects": [
+    {
+      "project": "Linha 6 do Metrô de São Paulo",
+      "country": "Brasil",
+      "value": "R$ 45M",
+      "winner": "Honeywell",
+      "status": "Em andamento",
+      "contacts": "João Silva (Metro SP) - joao.silva@metrosp.com.br",
+      "scope": "15 estações, sistema addressable completo",
+      "source": ""
+    }
+  ],
+  "peopleMovements": [
+    {
+      "date": "2025-02-15",
+      "person": "Ricardo Almeida",
+      "from": "Bosch (Gerente Regional)",
+      "to": "Honeywell (Diretor Comercial)",
+      "impact": "Contatos e estratégias de grandes contas migram para Honeywell"
+    }
+  ],
+  "experts": [
+    {
+      "name": "Carlos Hernández",
+      "role": "VP América Latina - Honeywell",
+      "email": "carlos.hernandez@honeywell.com",
+      "linkedin": "linkedin.com/in/carloshernandez",
+      "specialty": "Estratégia regional"
+    }
+  ]
+}
