@@ -1,6 +1,71 @@
 {
-  "lastUpdate": "2026-02-26T10:15:24.908538",
-  "regulations": [],
+  "lastUpdate": "2026-02-26T10:30:39.168633",
+  "regulations": [
+    {
+      "date": "2026-02-26",
+      "country": "América Latina",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "impact": "Alto",
+      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "América Latina",
+      "title": "[PDF] NORMA TÉCNICA DO CORPO DE BOMBEIROS Nº 17/2025",
+      "impact": "Alto",
+      "description": "NBR 17240: Sistemas de detecção e alarme de incêndio – Projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio – ...",
+      "source": "https://www.bombeiros.mt.gov.br/documents/d/bombeiros/ntcb_17_2025_sistema_de_deteccao_e_alarme_de_incendio"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "América Latina",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "impact": "Alto",
+      "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
+      "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "América Latina",
+      "title": "Cómo enfrentarse a un incendio siguiendo la NOM-002 - Buk",
+      "impact": "Alto",
+      "description": "Aprende cómo cumplir la NOM-002 y proteger a tus colaboradores con medidas efectivas de prevención y respuesta ante incendios.",
+      "source": "https://www.buk.mx/blog/nom-002-como-prevenir-incendio"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "Chile",
+      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
+      "impact": "Alto",
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "Chile",
+      "title": "Actualización: situación del uso del fuego como quema controlada",
+      "impact": "Alto",
+      "description": "Restringe uso del fuego | Se restringe desde el 20 de noviembre de 2025 y hasta que las condiciones sean favorables para realizar quemas controladas. Región ...",
+      "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "Colômbia",
+      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "impact": "Alto",
+      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
+      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
+    },
+    {
+      "date": "2026-02-26",
+      "country": "Colômbia",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "impact": "Alto",
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
+    }
+  ],
   "macroEconomic": [
     {
       "country": "Brazil",
@@ -9,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": ""
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -18,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": ""
+      "source": "https://tradingeconomics.com/mexico/gdp-from-construction"
     },
     {
       "country": "Chile",
@@ -27,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": ""
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -36,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": ""
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -45,12 +110,53 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": ""
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
-  "majorProjects": [],
+  "majorProjects": [
+    {
+      "project": "[PDF] EDITAL DA LICITACAO PREGÃO ELETRÔNICO Nº 010/2025 ...",
+      "country": "Brasil",
+      "value": "N/A",
+      "winner": "Em licitação",
+      "status": "Aberto",
+      "contacts": "Verificar fonte",
+      "scope": "OBJETO: Contratação de empresa especializada, no ramo de engenharia, para prestação de serviços de manutenção predial.",
+      "source": "https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/3136/arquivos/1"
+    },
+    {
+      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
+      "country": "América Latina",
+      "value": "N/A",
+      "winner": "Em licitação",
+      "status": "Aberto",
+      "contacts": "Verificar fonte",
+      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
+      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
+    },
+    {
+      "project": "Seguridad contra incendios en centros sanitarios | Life Safety Systems",
+      "country": "América Latina",
+      "value": "N/A",
+      "winner": "Em licitação",
+      "status": "Aberto",
+      "contacts": "Verificar fonte",
+      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
+      "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
+    },
+    {
+      "project": "Camera installed in South America's tallest building to detect forest ...",
+      "country": "Chile",
+      "value": "N/A",
+      "winner": "Em licitação",
+      "status": "Aberto",
+      "contacts": "Verificar fonte",
+      "scope": "A modern camera for the remote detection and localization of forest fires has been installed on the 62nd floor of the Sky Costanera Viewpoint.",
+      "source": "https://www.gob.cl/en/news/camera-installed-in-south-americas-tallest-building-to-detect-forest-fires/"
+    }
+  ],
   "peopleMovements": [],
   "experts": []
 }
