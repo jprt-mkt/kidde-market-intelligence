@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-02-26T10:32:40.785584",
+  "lastUpdate": "2026-02-27T06:46:20.233445",
   "regulations": [
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "América Latina",
       "title": "[PDF] NORMA TÉCNICA DO CORPO DE BOMBEIROS Nº 17/2025",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bombeiros.mt.gov.br/documents/d/bombeiros/ntcb_17_2025_sistema_de_deteccao_e_alarme_de_incendio"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,15 +26,15 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "América Latina",
-      "title": "[PDF] Guía 002: Incendios - Gob MX",
+      "title": "Cómo enfrentarse a un incendio siguiendo la NOM-002 - Buk",
       "impact": "Alto",
-      "description": "La NOM-002-STPS-2010, rige en el territorio nacional y aplica en todos los centros de trabajo. Page 7. 7. Ahora, para la correcta interpretación de la norma, es ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Aprende cómo cumplir la NOM-002 y proteger a tus colaboradores con medidas efectivas de prevención y respuesta ante incendios.",
+      "source": "https://www.buk.mx/blog/nom-002-como-prevenir-incendio"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "Chile",
-      "title": "[PDF] Publicación del Sábado 16 de Agosto de 2025 - Diario Oficial",
+      "title": "Actualización: situación del uso del fuego como quema controlada",
       "impact": "Alto",
-      "description": "La declaración de emergencia preventiva será fundada y expedida por decreto del Ministerio del Interior y Seguridad Pública 'por orden del.",
-      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/08/16/44226/01/2684954.pdf"
+      "description": "Restringe uso del fuego | Se restringe desde el 20 de noviembre de 2025 y hasta que las condiciones sean favorables para realizar quemas controladas. Región ...",
+      "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "Colômbia",
-      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "title": "RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
       "impact": "Alto",
       "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
       "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-02-27",
       "country": "Colômbia",
-      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "title": "Los sistemas contra incendios, obligatorios en Colombia",
       "impact": "Alto",
-      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
-      "source": "https://zeroriesgos.com/redes/"
+      "description": "Los sistemas contra incendios modernos están compuestos por una serie de dispositivos electrónicos que realizan el descubrimiento y la localización automática ...",
+      "source": "https://www.tecnelec.com.co/los-sistemas-contra-incendios-obligatorios-en-colombia"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
@@ -117,7 +117,7 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "[PDF] EDITAL DA LICITACAO PREGÃO ELETRÔNICO Nº 010/2025 ...",
+      "project": "EDITAL DA LICITACAO PREGÃO ELETRÔNICO Nº 010/2025 ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -147,14 +147,14 @@
       "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Latin American Shopping Chain Centralizes Security And ...",
+      "project": "Camera installed in South America's tallest building to detect forest ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
-      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
+      "scope": "A modern camera for the remote detection and localization of forest fires has been installed on the 62nd floor of the Sky Costanera Viewpoint.",
+      "source": "https://www.gob.cl/en/news/camera-installed-in-south-americas-tallest-building-to-detect-forest-fires/"
     }
   ],
   "peopleMovements": [],
