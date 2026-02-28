@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-02-27T06:46:20.233445",
+  "lastUpdate": "2026-02-28T06:32:16.621872",
   "regulations": [
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "América Latina",
       "title": "[PDF] NORMA TÉCNICA DO CORPO DE BOMBEIROS Nº 17/2025",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bombeiros.mt.gov.br/documents/d/bombeiros/ntcb_17_2025_sistema_de_deteccao_e_alarme_de_incendio"
     },
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,15 +26,23 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "América Latina",
-      "title": "Cómo enfrentarse a un incendio siguiendo la NOM-002 - Buk",
+      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
-      "description": "Aprende cómo cumplir la NOM-002 y proteger a tus colaboradores con medidas efectivas de prevención y respuesta ante incendios.",
-      "source": "https://www.buk.mx/blog/nom-002-como-prevenir-incendio"
+      "description": "Para la clasificación del riesgo de incendio en esta NOM solamente se prevén dos clases de riesgo: ordinario y alto. Los centros de trabajo clasificados con ...",
+      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
+      "country": "Chile",
+      "title": "Chile: Boric decreta estado de catástrofe por incendios - DW.com",
+      "impact": "Alto",
+      "description": "El presidente de Chile, Gabriel Boric, decretó la madrugada de este domingo (18.01.2026) estado de catástrofe en dos regiones del sur del ...",
+      "source": "https://www.dw.com/es/chile-boric-decreta-estado-de-cat%C3%A1strofe-por-incendios/a-75552472"
+    },
+    {
+      "date": "2026-02-28",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +50,20 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-02-27",
-      "country": "Chile",
-      "title": "Actualización: situación del uso del fuego como quema controlada",
-      "impact": "Alto",
-      "description": "Restringe uso del fuego | Se restringe desde el 20 de noviembre de 2025 y hasta que las condiciones sean favorables para realizar quemas controladas. Región ...",
-      "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
-    },
-    {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "Colômbia",
-      "title": "RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
       "impact": "Alto",
       "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
       "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
     },
     {
-      "date": "2026-02-27",
+      "date": "2026-02-28",
       "country": "Colômbia",
-      "title": "Los sistemas contra incendios, obligatorios en Colombia",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
-      "description": "Los sistemas contra incendios modernos están compuestos por una serie de dispositivos electrónicos que realizan el descubrimiento y la localización automática ...",
-      "source": "https://www.tecnelec.com.co/los-sistemas-contra-incendios-obligatorios-en-colombia"
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/mexico/gdp-from-construction"
+      "source": "https://t21.us/production-value-of-construction-companies-in-mexico-closes-2025-with-a-decline/"
     },
     {
       "country": "Chile",
@@ -117,7 +117,7 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "EDITAL DA LICITACAO PREGÃO ELETRÔNICO Nº 010/2025 ...",
+      "project": "[PDF] EDITAL DA LICITACAO PREGÃO ELETRÔNICO Nº 010/2025 ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -127,7 +127,7 @@
       "source": "https://pncp.gov.br/pncp-api/v1/orgaos/01409580000138/compras/2025/3136/arquivos/1"
     },
     {
-      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
+      "project": "Detecção de Incêndio em Túneis Metroviários",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,24 +137,24 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Seguridad contra incendios en centros sanitarios | Life Safety Systems",
+      "project": "Seguridad contra incendios en centros sanitarios",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
+      "scope": "Los sistemas clásicos de detección de incendios exigen que el personal de seguridad y mantenimiento realice visitas frecuentes a las instalaciones para ...",
       "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Camera installed in South America's tallest building to detect forest ...",
+      "project": "Latin American Shopping Chain Centralizes Security And ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A modern camera for the remote detection and localization of forest fires has been installed on the 62nd floor of the Sky Costanera Viewpoint.",
-      "source": "https://www.gob.cl/en/news/camera-installed-in-south-americas-tallest-building-to-detect-forest-fires/"
+      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
+      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
   "peopleMovements": [],
