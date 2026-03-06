@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-05T06:44:39.529177",
+  "lastUpdate": "2026-03-06T06:40:58.766755",
   "regulations": [
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,39 +10,39 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "América Latina",
-      "title": "[PDF] NORMA TÉCNICA DO CORPO DE BOMBEIROS Nº 17/2025",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
-      "description": "NBR 17240: Sistemas de detecção e alarme de incêndio – Projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio – ...",
-      "source": "https://www.bombeiros.mt.gov.br/documents/d/bombeiros/ntcb_17_2025_sistema_de_deteccao_e_alarme_de_incendio"
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones ... - DOF",
       "impact": "Alto",
-      "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
+      "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "América Latina",
-      "title": "Sistemas contra incendio en México:recap 2025",
+      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
-      "description": "La NOM-002-STPS-2010 sigue siendo la base legal obligatoria en México, pero en 2025 cambió algo clave: la forma en que se está aplicando.",
-      "source": "https://www.labodegadelinstalador.net/sistemas-contra-incendio-en-mexicorecap-2025/?srsltid=AfmBOopua_jUb56zH8Ltw7wFnLPt7oNP5SXoFa3lRKquw-XbZIqDAusm"
+      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
+      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
+      "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública - BCN",
       "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "Chile",
       "title": "Actualización: situación del uso del fuego como quema controlada",
       "impact": "Alto",
@@ -50,15 +50,15 @@
       "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "Colômbia",
-      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "title": "Sistemas de Monitoreo Satelital para la Detección Temprana de ...",
       "impact": "Alto",
-      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
-      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
+      "description": "Conéctate al espacio donde hablaremos de Sistemas de Monitoreo Satelital para la Detección Temprana de Incendios Forestales.",
+      "source": "https://portal.gestiondelriesgo.gov.co/Paginas/Slide_home/Sistemas-de-Monitoreo-Satelital-para-la-Deteccion-Temprana-de-Incendios-Forestales.aspx"
     },
     {
-      "date": "2026-03-05",
+      "date": "2026-03-06",
       "country": "Colômbia",
       "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
       "impact": "Alto",
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
+      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
     },
     {
       "country": "Chile",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2026-154000404.html"
+      "source": "https://www.batimes.com.ar/news/economy/argentina-construction-posts-largest-monthly-drop-of-2025.phtml"
     }
   ],
   "competitorMoves": [],
@@ -157,6 +157,14 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [],
+  "peopleMovements": [
+    {
+      "date": "2026-03-06",
+      "person": "Verificar fonte",
+      "from": "N/A",
+      "to": "Fire - Search Jobs - Honeywell Careers",
+      "impact": "Join Us!! Lead Fire Alarm Technician, 5K SIGN-ON Bonus. Locations. Costa Mesa, CA, United States. and 1 more. Posting Date. 02/28/2026. Be the First to Apply."
+    }
+  ],
   "experts": []
 }
