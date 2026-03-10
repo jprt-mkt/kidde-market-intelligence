@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-09T06:56:27.270547",
+  "lastUpdate": "2026-03-10T06:41:55.690322",
   "regulations": [
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "América Latina",
       "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones ... - DOF",
       "impact": "Alto",
@@ -26,44 +26,44 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "América Latina",
-      "title": "[PDF] Guía 002: Incendios - Gob MX",
+      "title": "NOM-002-STPS-2010 – Normalización",
       "impact": "Alto",
-      "description": "La NOM-002-STPS-2010, rige en el territorio nacional y aplica en todos los centros de trabajo. Page 7. 7. Ahora, para la correcta interpretación de la norma, es ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Título de la Norma: Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo. Estado de la Norma: Vigente. Fecha de ...",
+      "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA",
-      "impact": "Alto",
-      "description": "Decreto 912 APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681. MINISTERIO DE HACIENDA ...",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1212030&idVersion=2025-03-24"
-    },
-    {
-      "date": "2026-03-09",
-      "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales",
       "impact": "Alto",
       "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-09",
-      "country": "Colômbia",
-      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "date": "2026-03-10",
+      "country": "Chile",
+      "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública - BCN",
       "impact": "Alto",
-      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
-      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "country": "Colômbia",
       "title": "Sistemas de Monitoreo Satelital para la Detección Temprana de ...",
       "impact": "Alto",
       "description": "Conéctate al espacio donde hablaremos de Sistemas de Monitoreo Satelital para la Detección Temprana de Incendios Forestales.",
       "source": "https://portal.gestiondelriesgo.gov.co/Paginas/Slide_home/Sistemas-de-Monitoreo-Satelital-para-la-Deteccion-Temprana-de-Incendios-Forestales.aspx"
+    },
+    {
+      "date": "2026-03-10",
+      "country": "Colômbia",
+      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "impact": "Alto",
+      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
+      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://www.globaltimes.cn/page/202603/1356419.shtml"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
+      "source": "https://tradingeconomics.com/mexico/gdp-from-construction"
     },
     {
       "country": "Chile",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2026-154300775.html"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -110,21 +110,21 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2026-154000404.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "PREGÃO ELETRÔNICO Nº 90005/2025 | Ministério Público ... - MPBA",
+      "project": "Pregão Eletrônico nº 90002/2025 - Portal Gov.br",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de pessoa jurídica da área de engenharia para o fornecimento e instalação de sistema de detecção e alarme de incêndio sem fio, para a sede ...",
-      "source": "https://www.mpba.mp.br/contratacao/77497"
+      "scope": "Objeto: Contratação de serviços da área de prevenção contra incêndio e pânico, abandono de edificação, desenvolvimento e manutenção de boas práticas e ...",
+      "source": "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sede/licitacoes/pregao-eletronico/2025/pregao-eletronico-no-90002-2025"
     },
     {
       "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
@@ -147,19 +147,19 @@
       "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Latin American Shopping Chain Centralizes Security And ...",
+      "project": "Mall - ISAI CONTROLES",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
-      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
+      "scope": "Fire Detection & Extinction. Slide 2. A great professional team with the. greatest experience and know-how of the region. Engineering & Maintenance Services.",
+      "source": "https://isaicontroles.com/en/soluciones-y-clientes/centros-comerciales-shoppings/"
     }
   ],
   "peopleMovements": [
     {
-      "date": "2026-03-09",
+      "date": "2026-03-10",
       "person": "Verificar fonte",
       "from": "N/A",
       "to": "Fire - Search Jobs - Honeywell Careers",
