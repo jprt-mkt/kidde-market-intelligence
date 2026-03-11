@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-10T06:41:55.690322",
+  "lastUpdate": "2026-03-11T06:45:24.360874",
   "regulations": [
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "América Latina",
       "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
@@ -18,31 +18,23 @@
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones ... - DOF",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
       "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "América Latina",
-      "title": "NOM-002-STPS-2010 – Normalización",
+      "title": "Sistemas contra incendio en México:recap 2025",
       "impact": "Alto",
-      "description": "Título de la Norma: Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo. Estado de la Norma: Vigente. Fecha de ...",
-      "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
+      "description": "La NOM-002-STPS-2010 sigue siendo la base legal obligatoria en México, pero en 2025 cambió algo clave: la forma en que se está aplicando.",
+      "source": "https://www.labodegadelinstalador.net/sistemas-contra-incendio-en-mexicorecap-2025/?srsltid=AfmBOorIevY8X4oOyPEAC3nW5aJFwahLMDJspbwAzhnLyEv6ysAcN46w"
     },
     {
-      "date": "2026-03-10",
-      "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales",
-      "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
-    },
-    {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "Chile",
       "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública - BCN",
       "impact": "Alto",
@@ -50,20 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-03-10",
-      "country": "Colômbia",
-      "title": "Sistemas de Monitoreo Satelital para la Detección Temprana de ...",
+      "date": "2026-03-11",
+      "country": "Chile",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
-      "description": "Conéctate al espacio donde hablaremos de Sistemas de Monitoreo Satelital para la Detección Temprana de Incendios Forestales.",
-      "source": "https://portal.gestiondelriesgo.gov.co/Paginas/Slide_home/Sistemas-de-Monitoreo-Satelital-para-la-Deteccion-Temprana-de-Incendios-Forestales.aspx"
+      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
+      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-10",
+      "date": "2026-03-11",
       "country": "Colômbia",
       "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
       "impact": "Alto",
       "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
       "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
+    },
+    {
+      "date": "2026-03-11",
+      "country": "Colômbia",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "impact": "Alto",
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/mexico/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
     },
     {
       "country": "Chile",
@@ -117,14 +117,14 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Pregão Eletrônico nº 90002/2025 - Portal Gov.br",
+      "project": "2025 — Controladoria-Geral da União - Portal Gov.br",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços da área de prevenção contra incêndio e pânico, abandono de edificação, desenvolvimento e manutenção de boas práticas e ...",
-      "source": "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sede/licitacoes/pregao-eletronico/2025/pregao-eletronico-no-90002-2025"
+      "scope": "Contratação de empresa especializada para fornecimento e Instalação de Sistema de Detecção e Alarme de Incêndio, incluindo todos os dispositivos e ...",
+      "source": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/tipos/cotacoes-eletronicas/2025"
     },
     {
       "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
@@ -147,24 +147,16 @@
       "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Mall - ISAI CONTROLES",
+      "project": "DEVELOPING: At 1200 EDT on July 10, 2025, a three-alarm fire ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Fire Detection & Extinction. Slide 2. A great professional team with the. greatest experience and know-how of the region. Engineering & Maintenance Services.",
-      "source": "https://isaicontroles.com/en/soluciones-y-clientes/centros-comerciales-shoppings/"
+      "scope": "DEVELOPING: At 1200 EDT on July 10, 2025, a three-alarm fire broke out at the intersection of 21 de Mayo and Monjitas in central Santiago, ...",
+      "source": "https://www.instagram.com/reel/DL8CUl0RnoU/"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-03-10",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Fire - Search Jobs - Honeywell Careers",
-      "impact": "Join Us!! Lead Fire Alarm Technician, 5K SIGN-ON Bonus. Locations. Costa Mesa, CA, United States. and 1 more. Posting Date. 02/28/2026. Be the First to Apply."
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
