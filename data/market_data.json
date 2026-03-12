@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-11T06:45:24.360874",
+  "lastUpdate": "2026-03-12T06:48:09.111072",
   "regulations": [
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,39 +10,31 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "América Latina",
-      "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
-      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
-      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones ... - DOF",
       "impact": "Alto",
       "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "América Latina",
-      "title": "Sistemas contra incendio en México:recap 2025",
+      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
-      "description": "La NOM-002-STPS-2010 sigue siendo la base legal obligatoria en México, pero en 2025 cambió algo clave: la forma en que se está aplicando.",
-      "source": "https://www.labodegadelinstalador.net/sistemas-contra-incendio-en-mexicorecap-2025/?srsltid=AfmBOorIevY8X4oOyPEAC3nW5aJFwahLMDJspbwAzhnLyEv6ysAcN46w"
+      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
+      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-03-11",
-      "country": "Chile",
-      "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública - BCN",
-      "impact": "Alto",
-      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
-      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
-    },
-    {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "Chile",
       "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
@@ -50,20 +42,28 @@
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-11",
-      "country": "Colômbia",
-      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "date": "2026-03-12",
+      "country": "Chile",
+      "title": "Boric decreta “estado de emergencia preventivo” por ...",
       "impact": "Alto",
-      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
-      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
+      "description": "El presidente de Chile, Gabriel Boric, decretó este sábado el estado de emergencia preventivo en varias regiones de la zona centro-sur del ...",
+      "source": "https://cnnespanol.cnn.com/2025/02/08/latinoamerica/boric-estado-emergencia-preventivo-incendios-chile-orix"
     },
     {
-      "date": "2026-03-11",
+      "date": "2026-03-12",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
       "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
       "source": "https://zeroriesgos.com/redes/"
+    },
+    {
+      "date": "2026-03-12",
+      "country": "Colômbia",
+      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "impact": "Alto",
+      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
+      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.globaltimes.cn/page/202603/1356419.shtml"
+      "source": "https://www.businesswire.com/news/home/20250829831338/en/Brazil-Construction-Industry-Report-2025-Market-to-Grow-at-a-CAGR-of-6.3-to-Reach-%24236-Billion-by-2034-Driven-by-Government-Initiatives-Infrastructure-Development-and-Increased-Demand---ResearchAndMarkets.com"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
     },
     {
       "country": "Chile",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
     },
     {
       "country": "Colombia",
@@ -110,21 +110,21 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2026-154000404.html"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "2025 — Controladoria-Geral da União - Portal Gov.br",
+      "project": "Pregão Eletrônico nº 90002/2025 - Portal Gov.br",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Contratação de empresa especializada para fornecimento e Instalação de Sistema de Detecção e Alarme de Incêndio, incluindo todos os dispositivos e ...",
-      "source": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/tipos/cotacoes-eletronicas/2025"
+      "scope": "Objeto: Contratação de serviços da área de prevenção contra incêndio e pânico, abandono de edificação, desenvolvimento e manutenção de boas práticas e ...",
+      "source": "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sede/licitacoes/pregao-eletronico/2025/pregao-eletronico-no-90002-2025"
     },
     {
       "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
@@ -137,14 +137,14 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Seguridad contra incendios en centros sanitarios | Life Safety Systems",
+      "project": "La seguridad en un hospital comienza con sistemas que ... - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
-      "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
+      "scope": "La póliza de mantenimiento Seguratec asegura que tus alarmas contra incendios estén siempre listas para actuar cuando más se necesitan.",
+      "source": "https://www.instagram.com/reel/DTRXutVDVTh/?hl=he"
     },
     {
       "project": "DEVELOPING: At 1200 EDT on July 10, 2025, a three-alarm fire ...",
