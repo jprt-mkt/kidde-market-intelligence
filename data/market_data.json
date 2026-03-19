@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-18T06:56:50.757911",
+  "lastUpdate": "2026-03-19T06:53:11.669543",
   "regulations": [
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,31 +26,31 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
-      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "La NOM-002-STPS-2010 es una Norma Oficial Mexicana que establece las condiciones de seguridad para la prevención y protección contra ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 17-MAR-2026 MINISTERIO DEL INTERIOR ...",
+      "title": "Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA - BCN",
       "impact": "Alto",
-      "description": "1° Que, en la Región del Biobío, han ocurrido diversos incendios forestales que han afectado gravemente a personas, viviendas, infraestructura, ...",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1222446"
+      "description": "Decreto 912 APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681. MINISTERIO DE HACIENDA ...",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1212030&idVersion=2025-03-24"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Chile",
-      "title": "[PDF] Publicación del Sábado 16 de Agosto de 2025 - Diario Oficial",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
-      "description": "que permitan hacer frente a los incendios que amenacen el territorio nacional. Decreto: Declárese a las regiones de Atacama, Coquimbo ...",
-      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/08/16/44226/01/2684954.pdf"
+      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
+      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Colômbia",
       "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
     },
     {
-      "date": "2026-03-18",
+      "date": "2026-03-19",
       "country": "Colômbia",
-      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
-      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
-      "source": "https://zeroriesgos.com/redes/"
+      "description": "Comments · Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · NORMATIVIDAD DE ALARMAS DE INCENDIO EN COLOMBIA NSR 10 - ...",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-falls-03-qoq-in-3q25-weakness-in-industry-and-services/"
     },
     {
       "country": "Chile",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -110,21 +110,21 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Pregão Eletrônico nº 90002/2025 - Governo Federal",
+      "project": "[PDF] pregão eletrônico nº 01/2025",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços da área de prevenção contra incêndio e pânico, abandono de edificação, desenvolvimento e manutenção de boas práticas e ...",
-      "source": "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sede/licitacoes/pregao-eletronico/2025/pregao-eletronico-no-90002-2025"
+      "scope": "Fornecimento e instalação de sistema de detecção de fumaça e alarme de incêndio wireless, com todos os materiais, equipamentos, serviços ...",
+      "source": "https://pncp.gov.br/pncp-api/v1/orgaos/09101307000153/compras/2025/7/arquivos/1"
     },
     {
       "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
@@ -137,14 +137,14 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Cortafuegos en Instalaciones Hospitalarias - Hilti México",
+      "project": "En un hospital, una alarma mal diseñada puede ser tan peligrosa ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Protección contra incendios y control del flujo de aire que ayudan a minimizar el riesgo en instalaciones hospitalarias.",
-      "source": "https://www.hilti.com.mx/content/hilti/W2/MX/es/business/business/engineering/fire-protection/healthcare-facilities.html"
+      "scope": "La detección debe adaptarse al riesgo real: gases medicinales, equipos críticos, evacuaciones horizontales y continuidad operativa. La NFPA 99 ...",
+      "source": "https://www.instagram.com/p/DVJvExJkSjn/"
     },
     {
       "project": "Latin American Shopping Chain Centralizes Security And ...",
@@ -157,6 +157,14 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [],
+  "peopleMovements": [
+    {
+      "date": "2026-03-19",
+      "person": "Verificar fonte",
+      "from": "N/A",
+      "to": "Bosch announces new executive leadership | Security Systems News",
+      "impact": "Bosch Security Systems, a manufacturer of security solutions, announced on Oct. 22 the appointment of Christopher Gerace as president of Bosch Security Systems ..."
+    }
+  ],
   "experts": []
 }
