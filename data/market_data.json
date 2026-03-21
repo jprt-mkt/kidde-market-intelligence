@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-20T06:48:48.234407",
+  "lastUpdate": "2026-03-21T06:37:17.821178",
   "regulations": [
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,15 +10,15 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "América Latina",
-      "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
-      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
-      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "América Latina",
       "title": "NOM-002-STPS-2010 – Normalización",
       "impact": "Alto",
@@ -34,15 +34,15 @@
       "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
-      "description": "Decreto 912 APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681. MINISTERIO DE HACIENDA ...",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1212030&idVersion=2025-03-24"
+      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "Chile",
       "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
@@ -50,20 +50,20 @@
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-20",
-      "country": "Colômbia",
-      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
-      "impact": "Alto",
-      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
-      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
-    },
-    {
-      "date": "2026-03-20",
+      "date": "2026-03-21",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
       "description": "... Colombia. Representamos las mejores marcas para CCTV, intrusión, incendio, control de acceso, sistemas de parqueo, perimetría, entre otros ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-03-21",
+      "country": "Colômbia",
+      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "impact": "Alto",
+      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
+      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://www.globenewswire.com/news-release/2026/02/03/3231337/0/en/Brazil-Construction-Industry-Report-2025-Following-2-Growth-in-2025-Output-to-Grow-at-an-AAGR-of-3-7-Between-2026-2029-Supported-by-Investments-in-Renewable-Energy-Projects.html"
     },
     {
       "country": "Mexico",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.reuters.com/world/americas/chiles-economic-growth-slows-2025-despite-fourth-quarter-rebound-2026-03-18/"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -110,21 +110,21 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.businesswire.com/news/home/20260127567955/en/Argentina-Construction-Industry-Report-2025-Output-Rebounded-to-6.8-Growth-in-2025-Due-to-Low-Base-Effect-and-Austerity-Measures---Forecast-to-2029---ResearchAndMarkets.com"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "PREGÃO ELETRÔNICO Nº 90005/2025",
+      "project": "Pregão Eletrônico nº 90002/2025 - Governo Federal",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de pessoa jurídica da área de engenharia para o fornecimento e instalação de sistema de detecção e alarme de incêndio sem fio, para a sede ...",
-      "source": "https://www.mpba.mp.br/contratacao/77497"
+      "scope": "Objeto: Contratação de serviços da área de prevenção contra incêndio e pânico, abandono de edificação, desenvolvimento e manutenção de boas práticas e ...",
+      "source": "https://www.gov.br/iphan/pt-br/acesso-a-informacao/licitacoes-e-contratos/iphan-sede/licitacoes/pregao-eletronico/2025/pregao-eletronico-no-90002-2025"
     },
     {
       "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
@@ -137,14 +137,14 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Seguridad contra incendios en centros sanitarios | Life Safety Systems",
+      "project": "Incendios en hospitales: la emergencia que pocos prevén.",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
-      "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
+      "scope": "En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital presenta un ...",
+      "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
     },
     {
       "project": "Latin American Shopping Chain Centralizes Security And ...",
