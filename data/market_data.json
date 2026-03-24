@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-23T07:04:17.863267",
+  "lastUpdate": "2026-03-24T06:58:55.536365",
   "regulations": [
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "Chile",
       "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
@@ -50,20 +50,20 @@
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "country": "Colômbia",
-      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04 ...",
+      "impact": "Alto",
+      "description": "Honeywell - Normativa de Detección de Incendio en Colombia 2020/04/14 ... Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14.",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-03-24",
+      "country": "Colômbia",
+      "title": "Colombia lanza un programa nacional de monitoreo de",
       "impact": "Alto",
       "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
       "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
-    },
-    {
-      "date": "2026-03-23",
-      "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
-      "impact": "Alto",
-      "description": "... Colombia. Representamos las mejores marcas para CCTV, intrusión, incendio, control de acceso, sistemas de parqueo, perimetría, entre otros ...",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
     }
   ],
   "competitorMoves": [],
