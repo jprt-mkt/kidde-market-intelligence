@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-03-25T06:57:19.389101",
+  "lastUpdate": "2026-03-26T07:02:30.352066",
   "regulations": [
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
-      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
+      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "América Latina",
-      "title": "Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
+      "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
       "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "América Latina",
       "title": "NOM-002-STPS-2010 – Normalización",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Chile",
       "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
@@ -50,19 +50,19 @@
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Colômbia",
-      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
+      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
       "impact": "Alto",
-      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
-      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
+      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
+      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
     },
     {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
-      "description": "En Zero Riesgos diseñamos, instalamos y mantenemos redes contra incendios certificadas, adaptadas a cada tipo de riesgo y alineadas con la normativa colombiana.",
+      "description": "Ley 1575 de 2012: establece el marco legal del Sistema Nacional de Bomberos de Colombia y define las responsabilidades de propietarios, empresas y entidades ...",
       "source": "https://zeroriesgos.com/redes/"
     }
   ],
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
+      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
     },
     {
       "country": "Chile",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
@@ -137,13 +137,13 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Incendios en hospitales: la emergencia que pocos prevén. - YouTube",
+      "project": "Incendios en hospitales: la emergencia que pocos prevén.",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "PRESENTACIÓN. En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital ...",
+      "scope": "PRESENTACIÓN. En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital",
       "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
     },
     {
