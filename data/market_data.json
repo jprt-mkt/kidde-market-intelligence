@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-27T07:01:20.253668",
+  "lastUpdate": "2026-03-28T06:53:35.616535",
   "regulations": [
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,15 +26,15 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "NOM-002-STPS-2010 – Normalización",
       "impact": "Alto",
-      "description": "Para la clasificación del riesgo de incendio en esta NOM solamente se prevén dos clases de riesgo: ordinario y alto. Los centros de trabajo clasificados con ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Título de la Norma: Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo. Estado de la Norma: Vigente. Fecha de ...",
+      "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales",
+      "title": "[PDF] Publicación del Viernes 23 de Mayo de 2025 - Diario Oficial",
       "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
+      "description": "Artículo 1.- Créase el Servicio Nacional Forestal, y fíjase como su ley orgánica la contenida en este texto.",
+      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/05/23/44155/01/2650043.pdf"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "Colômbia",
-      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
-      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
-      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
     },
     {
-      "date": "2026-03-27",
+      "date": "2026-03-28",
       "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
       "impact": "Alto",
-      "description": "... Colombia. Representamos las mejores marcas para CCTV, intrusión, incendio, control de acceso, sistemas de parqueo, perimetría, entre otros ...",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+      "description": "Colombia lanza un sistema satelital nacional para detectar incendios y proteger comunidades, bosques y biodiversidad en tiempo real....",
+      "source": "https://www.globenewswire.com/news-release/2025/10/30/3177560/0/es/Colombia-lanza-un-programa-nacional-de-monitoreo-de-incendios-forestales-utilizando-tecnolog%C3%ADa-satelital-de-OroraTech.html"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
@@ -137,14 +137,14 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Diseño e instalación de sistemas contra incendios en México",
+      "project": "Incendios en hospitales: la emergencia que pocos prevén. - YouTube",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Ofrecemos desde sistemas de detección y alarmas, hasta instalaciones completas con tuberías y rociadores automáticos, garantizando la máxima seguridad para tu ...",
-      "source": "https://www.macgrupoconstructor.mx/sistema-contra-incendios"
+      "scope": "PRESENTACIÓN. En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital ...",
+      "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
     },
     {
       "project": "Latin American Shopping Chain Centralizes Security And ...",
