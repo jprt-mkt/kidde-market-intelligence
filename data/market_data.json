@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-03-28T06:53:35.616535",
+  "lastUpdate": "2026-03-29T06:58:06.624501",
   "regulations": [
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,15 +10,15 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
+      "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
-      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
+      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
+      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "América Latina",
       "title": "NOM-002-STPS-2010 – Normalización",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://platiica.economia.gob.mx/normalizacion/nom-002-stps-2010/"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,15 +42,15 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "Chile",
-      "title": "[PDF] Publicación del Viernes 23 de Mayo de 2025 - Diario Oficial",
+      "title": "[PDF] Publicación del Sábado 16 de Agosto de 2025 - Diario Oficial",
       "impact": "Alto",
-      "description": "Artículo 1.- Créase el Servicio Nacional Forestal, y fíjase como su ley orgánica la contenida en este texto.",
-      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/05/23/44155/01/2650043.pdf"
+      "description": "que permitan hacer frente a los incendios que amenacen el territorio nacional. Decreto: Declárese a las regiones de Atacama, Coquimbo ...",
+      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/08/16/44226/01/2684954.pdf"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
@@ -58,7 +58,7 @@
       "source": "https://zeroriesgos.com/redes/"
     },
     {
-      "date": "2026-03-28",
+      "date": "2026-03-29",
       "country": "Colômbia",
       "title": "Colombia lanza un programa nacional de monitoreo de incendios ...",
       "impact": "Alto",
@@ -137,24 +137,24 @@
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Incendios en hospitales: la emergencia que pocos prevén. - YouTube",
+      "project": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN ... - YouTube",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "PRESENTACIÓN. En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital ...",
-      "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
+      "scope": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN HOSPITALES. 4.3K views · 5 years ago ...more. erocafuerte2010. 516. Subscribe. 104. Share.",
+      "source": "https://www.youtube.com/watch?v=sg6dH_aMnN8"
     },
     {
-      "project": "Latin American Shopping Chain Centralizes Security And ...",
+      "project": "DEVELOPING: At 1200 EDT on July 10, 2025, a three-alarm fire ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
-      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
+      "scope": "DEVELOPING: At 1200 EDT on July 10, 2025, a three-alarm fire broke out at the intersection of 21 de Mayo and Monjitas in central Santiago, ...",
+      "source": "https://www.instagram.com/reel/DL8CUl0RnoU/"
     }
   ],
   "peopleMovements": [],
