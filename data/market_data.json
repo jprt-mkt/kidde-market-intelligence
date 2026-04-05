@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-04T06:55:03.907935",
+  "lastUpdate": "2026-04-05T07:00:06.689315",
   "regulations": [
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,15 +10,15 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
+      "title": "Sistema de Detecção de Incêndio Empresarial: Normas ABNT",
       "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
-      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
+      "description": "2.1. NBR 17240 – A Norma Fundamental. A NBR 17240 é a principal norma brasileira que trata dos sistemas de detecção e alarme de incêndio.",
+      "source": "https://drtsecurity.com.br/sistema-de-deteccao-de-incendio-empresarial-normas-abnt/"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "Chile",
-      "title": "Incendio Forestal #2 (2025-02-08) - Chile - ReliefWeb",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales",
       "impact": "Alto",
-      "description": "Decreto de Estado de emergencia preventivo, decretado por las autoridades del Gobierno de Chile, para las regiones de Ñuble y Maule ...",
-      "source": "https://reliefweb.int/report/chile/chl-incendio-02-2025-incendio-forestal-2-2025-02-08"
+      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
+      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "Colômbia",
-      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "title": "Redes contra incendios en Colombia: sistemas y ...",
       "impact": "Alto",
-      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
-      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-04-05",
       "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "title": "Protocolo Nacional de Respuesta ante Incendios Forestales",
       "impact": "Alto",
-      "description": "Comments · Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · NORMATIVIDAD DE ALARMAS DE INCENDIO EN COLOMBIA NSR 10 - ...",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+      "description": "by ESCN UNGRD · Cited by 3 — Establecer el protocolo para la atención de incendios forestales en el territorio nacional que permita coordinar la respuesta interinstitucional, activación y ...",
+      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Protocolo-Nacional-de-Respuesta-ante-Incendios-Forestales.pdf"
     }
   ],
   "macroEconomic": [
