@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-04-05T07:00:06.689315",
+  "lastUpdate": "2026-04-06T07:23:22.408527",
   "regulations": [
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "América Latina",
-      "title": "Sistema de Detecção de Incêndio Empresarial: Normas ABNT",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
-      "description": "2.1. NBR 17240 – A Norma Fundamental. A NBR 17240 é a principal norma brasileira que trata dos sistemas de detecção e alarme de incêndio.",
-      "source": "https://drtsecurity.com.br/sistema-de-deteccao-de-incendio-empresarial-normas-abnt/"
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales",
+      "title": "Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA - Ley Chile",
       "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
+      "description": "APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681.",
+      "source": "https://www.leychile.cl/leychile/Navegar?idNorma=1212030"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "Colômbia",
-      "title": "Redes contra incendios en Colombia: sistemas y ...",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
       "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
       "source": "https://zeroriesgos.com/redes/"
     },
     {
-      "date": "2026-04-05",
+      "date": "2026-04-06",
       "country": "Colômbia",
-      "title": "Protocolo Nacional de Respuesta ante Incendios Forestales",
+      "title": "Normativas de seguridad contra incendios en Colombia - Guía",
       "impact": "Alto",
-      "description": "by ESCN UNGRD · Cited by 3 — Establecer el protocolo para la atención de incendios forestales en el territorio nacional que permita coordinar la respuesta interinstitucional, activación y ...",
-      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Protocolo-Nacional-de-Respuesta-ante-Incendios-Forestales.pdf"
+      "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
+      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOooVoAqs9xUVKOlEusGXDzjlTrrvYopIJh_KREHhBscbkCSEJQ4O"
     }
   ],
   "macroEconomic": [
@@ -117,7 +117,7 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -147,14 +147,14 @@
       "source": "https://www.instagram.com/popular/hospital-sistemas-alarme-inc%C3%AAndio-m%C3%A9xico/"
     },
     {
-      "project": "Large fire destroys \"Las Palmas\" shopping arcade in ... - YouTube",
+      "project": "Camera installed in South America's tallest building to detect forest fires",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Más información y actualizaciones en www.canal9.cl - Síguenos en redes sociales: Facebook: https://www.facebook.com/BioBioTV/ Instagram: ...",
-      "source": "https://www.youtube.com/watch?v=vABn2F8XrSc"
+      "scope": "A modern camera for the remote detection and localization of forest fires has been installed on the 62nd floor of the Sky Costanera Viewpoint.",
+      "source": "https://www.gob.cl/en/news/camera-installed-in-south-americas-tallest-building-to-detect-forest-fires/"
     }
   ],
   "peopleMovements": [],
