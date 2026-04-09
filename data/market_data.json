@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-04-08T07:11:50.163536",
+  "lastUpdate": "2026-04-09T07:15:57.268239",
   "regulations": [
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
+      "title": "Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
-      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
+      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
+      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,23 +34,23 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
       "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
       "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://zeroriesgos.com/redes/"
     },
     {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "country": "Colômbia",
       "title": "Normativas de seguridad contra incendios en Colombia - Guía",
       "impact": "Alto",
       "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
-      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOoqhUR_naUt_gI0lzrtQDfV4lTU5objyPBRSvZhCJGbD816c9DvC"
+      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOory0JkTDzam9AK7YPA4x2PVViatykHPYQ58ILSzCIia41cNwHaq"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://sg.finance.yahoo.com/news/chile-construction-industry-report-2026-141100150.html"
+      "source": "https://finance.yahoo.com/economy/policy/articles/chile-construction-industry-report-2026-141100150.html"
     },
     {
       "country": "Colombia",
@@ -110,14 +110,14 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://uk.finance.yahoo.com/news/argentina-construction-industry-report-2026-153000009.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -127,7 +127,7 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
+      "project": "Obras Metrô Detecção Incêndio América Latina",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,7 +137,7 @@
       "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "Hospital Sistemas Alarme Incêndio México",
+      "project": "Hospital Sistemas Alarme Incêndio México - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
