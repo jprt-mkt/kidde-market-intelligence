@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-13T07:55:44.521500",
+  "lastUpdate": "2026-04-14T07:24:04.649471",
   "regulations": [
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "América Latina",
       "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "Chile",
-      "title": "Incendio Forestal #2 (2025-02-08) - Chile - ReliefWeb",
+      "title": "Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA - Ley Chile",
       "impact": "Alto",
-      "description": "Decreto de Estado de emergencia preventivo, decretado por las autoridades del Gobierno de Chile, para las regiones de Ñuble y Maule ...",
-      "source": "https://reliefweb.int/report/chile/chl-incendio-02-2025-incendio-forestal-2-2025-02-08"
+      "description": "APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681.",
+      "source": "https://www.leychile.cl/leychile/Navegar?idNorma=1212030"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "Colômbia",
-      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
-      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
-      "source": "https://zeroriesgos.com/redes/"
+      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
+      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     },
     {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "country": "Colômbia",
-      "title": "Normativas de seguridad contra incendios en Colombia - Guía",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
-      "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
-      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOormHBO6LXTI5ngon3H0OR6xqcdCFYEanv2LUuvfnrk0dh5-Dr2N"
+      "description": "Comments · Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · INGENIERÍA DE SEGURIDAD CONTRA INCENDIOS Y PÁNICO · GMT20260404 ...",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
+      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
     },
     {
       "country": "Chile",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
+      "source": "https://finance.yahoo.com/sectors/energy/articles/colombia-construction-industry-report-2026-125600878.html"
     },
     {
       "country": "Argentina",
@@ -110,24 +110,24 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "2025 — Controladoria-Geral da União - Governo Federal",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
-      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
+      "scope": "Contratação de empresa especializada para fornecimento e Instalação de Sistema de Detecção e Alarme de Incêndio, incluindo todos os dispositivos e ...",
+      "source": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/cotacoes-eletronicas/2025"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -157,14 +157,6 @@
       "source": "https://www.youtube.com/watch?v=VuTjGi_LrFM"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-04-13",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Bosch Security - DIVAR IP all-in-one System Manager - YouTube",
-      "impact": "New. 423K views · 19:09 · Go to channel Tips 365 · Turn Old Fridge ... Addressable Fire Alarm Systems. Bosch Building Technologies•315 views."
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
