@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-15T07:24:42.206671",
+  "lastUpdate": "2026-04-16T07:24:52.206451",
   "regulations": [
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "América Latina",
       "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
@@ -18,15 +18,15 @@
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
-      "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
+      "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,36 +34,36 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "Chile",
-      "title": "Incendio Forestal #2 (2025-02-08) - Chile - ReliefWeb",
+      "title": "A partir del 01 de noviembre de 2025 quedaron ...",
       "impact": "Alto",
-      "description": "Decreto de Estado de emergencia preventivo, decretado por las autoridades del Gobierno de Chile, para las regiones de Ñuble y Maule ...",
-      "source": "https://reliefweb.int/report/chile/chl-incendio-02-2025-incendio-forestal-2-2025-02-08"
+      "description": "A partir del 01 de noviembre de 2025 quedaron restringidas todas las quemas agrícolas y forestales en la Región del Maule, medida que se ...",
+      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "Colômbia",
-      "title": "Normativas de seguridad contra incendios en Colombia",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
-      "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
-      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOooBsEFiy_7UI6QixVRWa9eHoD-1A_Mux0siC0UIW-wKy4S7Z661"
+      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
+      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     },
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "country": "Colômbia",
-      "title": "contra incendios",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
-      "description": "Su uso está destinado a asegurar que los procesos de prevención, detección, control y evacuación sean realizados de acuerdo con la normativa vigente. Este ...",
-      "source": "https://anraci.org/wp-content/uploads/2024/12/NORMOGRAMA-DE-LA-PROTECCION-CONTRA-INCENDIOS-EN-COLOMBIA.pdf"
+      "description": "Share your videos with friends, family, and the world.",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/economy/policy/articles/chile-construction-industry-report-2026-141100150.html"
+      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/sectors/energy/articles/colombia-construction-industry-report-2026-125600878.html"
+      "source": "https://finance.yahoo.com/news/colombia-construction-industry-report-2025-144700838.html"
     },
     {
       "country": "Argentina",
@@ -110,21 +110,21 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "[PDF] Edital 11/2025 - Governo Federal",
+      "project": "2025 — Controladoria-Geral da União - Governo Federal",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Ante as listadas características, a licitação adotará o sistema de registro de preços, regulamentado pelo Decreto nº 11.462, de 31 de março de 2023, nos ...",
-      "source": "https://www.gov.br/mj/pt-br/acesso-a-informacao/licitacoes-e-contratosv1/licitacoes-e-contratos-senasp/cglic/cpl/procedimentos-2025/copy8_of_pregao-no-xxx-2025-1/edital-e-anexos.pdf"
+      "scope": "Contratação de empresa especializada para fornecimento e Instalação de Sistema de Detecção e Alarme de Incêndio, incluindo todos os dispositivos e ...",
+      "source": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/cotacoes-eletronicas/2025"
     },
     {
       "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
@@ -159,11 +159,11 @@
   ],
   "peopleMovements": [
     {
-      "date": "2026-04-15",
+      "date": "2026-04-16",
       "person": "Verificar fonte",
       "from": "N/A",
-      "to": "Bosch Security - DIVAR IP all-in-one System Manager - YouTube",
-      "impact": "New. 423K views · 19:09 · Go to channel Tips 365 · Turn Old Fridge ... Addressable Fire Alarm Systems. Bosch Building Technologies•315 views."
+      "to": "Honeywell INC. - Hispanic Careers",
+      "impact": "Minimum of 5 years of hands-on experience in fire protection or a closely related field. · Hands-on experience with fire alarm panel programming, including new ..."
     }
   ],
   "experts": []
