@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-16T07:24:52.206451",
+  "lastUpdate": "2026-04-17T07:25:40.138017",
   "regulations": [
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "América Latina",
       "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
@@ -18,15 +18,15 @@
       "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
-      "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
+      "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,33 +34,33 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "Chile",
-      "title": "Decreto 52 (08-feb-2025) M. del Interior y Seguridad Pública",
+      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
       "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "Chile",
-      "title": "A partir del 01 de noviembre de 2025 quedaron ...",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
-      "description": "A partir del 01 de noviembre de 2025 quedaron restringidas todas las quemas agrícolas y forestales en la Región del Maule, medida que se ...",
-      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
+      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
+      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF",
       "impact": "Alto",
       "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     },
     {
-      "date": "2026-04-16",
+      "date": "2026-04-17",
       "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04 ...",
       "impact": "Alto",
       "description": "Share your videos with friends, family, and the world.",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
+      "source": "https://finance.yahoo.com/news/chile-construction-industry-outlook-report-134100319.html"
     },
     {
       "country": "Colombia",
@@ -117,14 +117,14 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "2025 — Controladoria-Geral da União - Governo Federal",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Contratação de empresa especializada para fornecimento e Instalação de Sistema de Detecção e Alarme de Incêndio, incluindo todos os dispositivos e ...",
-      "source": "https://www.gov.br/cgu/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes/cotacoes-eletronicas/2025"
+      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
+      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
       "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
@@ -157,14 +157,6 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-04-16",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Honeywell INC. - Hispanic Careers",
-      "impact": "Minimum of 5 years of hands-on experience in fire protection or a closely related field. · Hands-on experience with fire alarm panel programming, including new ..."
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
