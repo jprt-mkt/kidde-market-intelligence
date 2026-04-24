@@ -1,40 +1,40 @@
 {
-  "lastUpdate": "2026-04-23T07:43:59.009277",
+  "lastUpdate": "2026-04-24T07:55:25.802624",
   "regulations": [
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
+      "title": "Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
       "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
-      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
+      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
+      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
       "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "GUÍA INFORMATIVA NOM-002-STPS-2010",
       "impact": "Alto",
       "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "Chile",
-      "title": "A partir del 01 de noviembre de 2025 quedaron restringidas todas ...",
+      "title": "Decreto 912 24-MAR-2025 MINISTERIO DE HACIENDA - Ley Chile",
       "impact": "Alto",
-      "description": "Región del Maule RESTRICCION USO DEL FUEGO a Goblerno Chile CHILE ... Decreto Supremo N°48/2016 del Ministerio del Medio Ambiente. La ...",
-      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
+      "description": "APRUEBA REGLAMENTO DEL FONDO DE EMERGENCIA TRANSITORIO POR INCENDIOS, CREADO EN VIRTUD DE LA LEY N° 21.681.",
+      "source": "https://www.leychile.cl/leychile/Navegar?idNorma=1212030"
     },
     {
-      "date": "2026-04-23",
-      "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
-      "impact": "Alto",
-      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
-      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
-    },
-    {
-      "date": "2026-04-23",
+      "date": "2026-04-24",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
       "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 100K views ; Normas NFPA contra incendios.",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-04-24",
+      "country": "Colômbia",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "impact": "Alto",
+      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
+      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     }
   ],
   "macroEconomic": [
@@ -110,14 +110,14 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -157,14 +157,6 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-04-23",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Honeywell INC. - Hispanic Careers",
-      "impact": "Minimum of 5 years of hands-on experience in fire protection or a closely related field. · Hands-on experience with fire alarm panel programming, including new ..."
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
