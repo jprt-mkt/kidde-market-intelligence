@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-26T07:22:17.597458",
+  "lastUpdate": "2026-04-27T08:13:54.991464",
   "regulations": [
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
+      "title": "Actualización: situación del uso del fuego como quema controlada",
       "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
+      "description": "Permite uso del fuego | Desde el 03 hasta 30 abril, en Provincia de Biobío excepto comuna de Los Ángeles por PDA, Provincia de Arauco y en ...",
+      "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
     },
     {
-      "date": "2026-04-26",
+      "date": "2026-04-27",
+      "country": "Colômbia",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "impact": "Alto",
+      "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 100K views ; Normas NFPA contra incendios.",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-04-27",
       "country": "Colômbia",
       "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
       "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
-    },
-    {
-      "date": "2026-04-26",
-      "country": "Colômbia",
-      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
-      "impact": "Alto",
-      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
-      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/colombia-construction-industry-report-2025-144700838.html"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
