@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-04-27T08:13:54.991464",
+  "lastUpdate": "2026-04-28T08:16:37.495309",
   "regulations": [
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "Chile",
       "title": "Actualización: situación del uso del fuego como quema controlada",
       "impact": "Alto",
@@ -50,20 +50,20 @@
       "source": "https://www.conaf.cl/actualizacion-situacion-uso-del-fuego-en-regiones/"
     },
     {
-      "date": "2026-04-27",
-      "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
-      "impact": "Alto",
-      "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 100K views ; Normas NFPA contra incendios.",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
-    },
-    {
-      "date": "2026-04-27",
+      "date": "2026-04-28",
       "country": "Colômbia",
       "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
       "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
+    },
+    {
+      "date": "2026-04-28",
+      "country": "Colômbia",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "impact": "Alto",
+      "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 100K views ; Normas NFPA contra incendios.",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -127,7 +127,7 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
+      "project": "Obras Metrô Detecção Incêndio América Latina",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,7 +137,7 @@
       "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "Hospital Sistemas Alarme Incêndio México",
+      "project": "Hospital Sistemas Alarme Incêndio México - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
