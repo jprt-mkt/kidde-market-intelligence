@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-02T07:25:51.024723",
+  "lastUpdate": "2026-05-03T07:55:20.213139",
   "regulations": [
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "country": "Chile",
-      "title": "A partir del 01 de noviembre de 2025 quedaron restringidas todas ...",
+      "title": "A partir del 1 de noviembre de 2025 comienzan las restricciones ...",
       "impact": "Alto",
       "description": "Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura. Gobierno de Chile. Chile contigo. OCR . Región del Maule ...",
-      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
+      "source": "https://www.instagram.com/reel/DQCpdxAgLO0/"
     },
     {
-      "date": "2026-05-02",
+      "date": "2026-05-03",
+      "country": "Colômbia",
+      "title": "[PDF] RESOLUCIÓN 0332 DEL 24 DE ABRIL DE 2025",
+      "impact": "Alto",
+      "description": "arquitecturas y enfoques adoptados para la detección de incendios forestales, incluyendo sistemas espaciales, aéreos, cámaras f¡as y redes ...",
+      "source": "https://portal.gestiondelriesgo.gov.co/Documents/Resoluciones/RESOLUCION-0332-DEL-24-DE-ABRIL-DE-2025.pdf"
+    },
+    {
+      "date": "2026-05-03",
       "country": "Colômbia",
       "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
       "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
-    },
-    {
-      "date": "2026-05-02",
-      "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
-      "impact": "Alto",
-      "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 100K views ; Normas NFPA contra incendios.",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
+      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
     },
     {
       "country": "Chile",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
     }
   ],
   "competitorMoves": [],
