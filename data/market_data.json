@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-04T08:23:58.854718",
+  "lastUpdate": "2026-05-05T08:02:21.342489",
   "regulations": [
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,36 +34,36 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
-      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
-      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
+      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "Chile",
-      "title": "[PDF] Publicación del Sábado 16 de Agosto de 2025 - Diario Oficial",
+      "title": "Campaña Verano 2025-2026 Incendios Forestales - Minsal",
       "impact": "Alto",
-      "description": "que permitan hacer frente a los incendios que amenacen el territorio nacional. Decreto: Declárese a las regiones de Atacama, Coquimbo ...",
-      "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2025/08/16/44226/01/2684954.pdf"
+      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
+      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
     },
     {
-      "date": "2026-05-04",
-      "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
-      "impact": "Alto",
-      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
-      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
-    },
-    {
-      "date": "2026-05-04",
+      "date": "2026-05-05",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
       "description": "En estos momentos que nuestra rutina ha sido cambiada abruptamente, haga más productivo este tiempo ampliando sus conocimientos en las áreas ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-05-05",
+      "country": "Colômbia",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "impact": "Alto",
+      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
+      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://finance.yahoo.com/news/chile-construction-industry-report-2025-163400832.html"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/colombia-construction-industry-report-2025-144700838.html"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
@@ -133,18 +133,18 @@
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Ainda hoje, não são utilizados detectores de incêndio em túneis metroviários na América. Latina. A preocupação com incêndios nos túneis do Metrô é cada vez ...",
+      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
       "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Detección y Alarma en Clínicas y Hospitales. Protección ... - YouTube",
+      "project": "Seguridad contra incendios en centros sanitarios | Life Safety Systems",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "... sistemas de detección y alarma contra incendios, y en general, las principales recomendaciones para su implementación en clínicas y hospitales.",
-      "source": "https://www.youtube.com/watch?v=il-q5MAdg6k"
+      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
+      "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
       "project": "Latin American Shopping Chain Centralizes Security And ...",
@@ -157,6 +157,14 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [],
+  "peopleMovements": [
+    {
+      "date": "2026-05-05",
+      "person": "Verificar fonte",
+      "from": "N/A",
+      "to": "AMS 5.2 Multi User Manager Installation and Configuration",
+      "impact": "This video will introduce the new AMS 5.2 feature multi-user manager. We will show you how to prepare install and configure this product."
+    }
+  ],
   "experts": []
 }
