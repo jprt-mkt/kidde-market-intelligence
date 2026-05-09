@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-08T07:23:20.140077",
+  "lastUpdate": "2026-05-09T07:50:23.639403",
   "regulations": [
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "Chile",
-      "title": "A partir del 1 de noviembre de 2025 comienzan las restricciones ...",
+      "title": "A partir del 01 de noviembre de 2025 quedaron restringidas todas ...",
       "impact": "Alto",
       "description": "Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura. Gobierno de Chile. Chile contigo. OCR . Región del Maule ...",
-      "source": "https://www.instagram.com/reel/DQCpdxAgLO0/"
+      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
     },
     {
-      "date": "2026-05-08",
-      "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
-      "impact": "Alto",
-      "description": "En estos momentos que nuestra rutina ha sido cambiada abruptamente, haga más productivo este tiempo ampliando sus conocimientos en las áreas ...",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
-    },
-    {
-      "date": "2026-05-08",
+      "date": "2026-05-09",
       "country": "Colômbia",
       "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
       "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
+    },
+    {
+      "date": "2026-05-09",
+      "country": "Colômbia",
+      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "impact": "Alto",
+      "description": "En estos momentos que nuestra rutina ha sido cambiada abruptamente, haga más productivo este tiempo ampliando sus conocimientos en las áreas ...",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.globaltimes.cn/page/202603/1356419.shtml"
+      "source": "https://tradingeconomics.com/brazil/gdp-growth-annual"
     },
     {
       "country": "Mexico",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.globenewswire.com/news-release/2025/09/17/3151531/28124/en/colombia-construction-industry-report-2025-output-to-grow-at-an-aagr-of-5-1-during-2026-2029-supported-by-investments-in-transport-and-energy-coupled-with-the-government-s-emission.html"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
@@ -117,34 +117,34 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "PE 90.010/2025 - EPIs - Equipamentos de Resgate e Combate a ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Nesta seção são encontrados os documentos do Edital de Licitação e seus Anexos, como o Termo de Referência, Minuta Contratual, dentre outros. Processo de ...",
-      "source": "https://www.gov.br/gestao/pt-br/assuntos/central-de-compras/transparencia/arp/2026X/pe-90-010-2025-epis-equipamentos-de-resgate-e-combate-a-incendio"
+      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
+      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "Obras da Estação Gávea do metrô têm detonação de 60 metros ... - G1",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "O projeto da estação prevê: • Área total de 34 mil metros quadrados; • Três acessos pela via; • Quatro níveis estruturais e duas plataformas; • 18 bloqueios com ...",
-      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
+      "scope": "Obras da Estação Gávea do metrô têm detonação de 60 metros em rocha. A previsão é que o projeto seja inaugurado em julho de 2028. Os gastos já ...",
+      "source": "https://g1.globo.com/rj/rio-de-janeiro/blog/edimilson-avila/post/2025/12/11/obras-da-estacao-gavea-do-metro-tem-detonacao-de-rocha.ghtml"
     },
     {
-      "project": "En un hospital, una alarma mal diseñada puede ser tan peligrosa ...",
+      "project": "Segurança - Facebook",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "La detección debe adaptarse al riesgo real: gases medicinales, equipos críticos, evacuaciones horizontales y continuidad operativa. La NFPA 99 ...",
-      "source": "https://www.instagram.com/p/DVJvExJkSjn/"
+      "scope": "O novo sistema de alarme de incêndio altamente digitalizado no hospital ... México, EUA e Canadá. Para ler a matéria completa, acesse ...",
+      "source": "https://www.facebook.com/revistasegurancaeletronica/photos/o-novo-sistema-de-alarme-de-inc%C3%AAndio-altamente-digitalizado-no-hospital-bovenij-/1566580822144175/"
     },
     {
       "project": "Latin American Shopping Chain Centralizes Security And ...",
@@ -157,14 +157,6 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-05-08",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Search Jobs - Honeywell Careers",
-      "impact": "); Latin America (14); United States IA (7). Posting Dates 0. Less than 30 days ... Come join a successful team supporting Fire Station Alerting Systems!"
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
