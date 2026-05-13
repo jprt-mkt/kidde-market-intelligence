@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-12T08:32:57.796704",
+  "lastUpdate": "2026-05-13T08:38:15.083533",
   "regulations": [
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,36 +34,36 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
       "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "Chile",
-      "title": "Incendio Forestal #2 (2025-02-08) - Chile - ReliefWeb",
+      "title": "A partir del 01 de noviembre de 2025 quedaron ...",
       "impact": "Alto",
-      "description": "Decreto de Estado de emergencia preventivo, decretado por las autoridades del Gobierno de Chile, para las regiones de Ñuble y Maule ...",
-      "source": "https://reliefweb.int/report/chile/chl-incendio-02-2025-incendio-forestal-2-2025-02-08"
+      "description": "Porque prevenir un incendio es más fácil que combatirlo. Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura.",
+      "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
     },
     {
-      "date": "2026-05-12",
-      "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
-      "impact": "Alto",
-      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
-      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
-    },
-    {
-      "date": "2026-05-12",
+      "date": "2026-05-13",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
       "description": "Comments ; Conferencia Técnica Sistemas de Gas y Fuego NFPA 72. Asociación Mexicana de Protección Contra Incendio · 736 ; Honeywell - Cableado para ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-05-13",
+      "country": "Colômbia",
+      "title": "Sistemas de Detección de Incendios en Colombia - Bigxperience",
+      "impact": "Alto",
+      "description": "Los sistemas de detección de incendios funcionan mediante la combinación de diferentes sensores y dispositivos para identificar y alertar sobre la presencia de ...",
+      "source": "https://bigxperience.com/sistemas-de-deteccion-incendios/"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": "https://finance.yahoo.com/news/colombia-construction-industry-report-2025-144700838.html"
     },
     {
       "country": "Argentina",
@@ -117,54 +117,46 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "Licitações de sistema combate incendio - SIGA Pregão",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
-      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
+      "scope": "Encontre licitações e compras públicas para 'sistema combate incendio' em todo o Brasil. Resultados atualizados com órgão, modalidade e datas.",
+      "source": "https://www.sigapregao.com.br/app/4/licitacoes/sistema-combate-incendio"
     },
     {
-      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
+      "project": "The Final Stretch of the Largest Infrastructure Project in Latin America",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
-      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
+      "scope": "Esta, é a construção da maior obra de infraestrutura em andamento na América Latina: a Linha 6-Laranja do Metrô. Com 15,3 km de extensão e ...",
+      "source": "https://www.youtube.com/watch?v=kIzon2lG88c"
     },
     {
-      "project": "O novo sistema de alarme de incêndio altamente digitalizado no ...",
+      "project": "Safety by design: engineers and entrepreneurs invent fire safety in ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "O novo sistema de alarme de incêndio altamente digitalizado no hospital BovenIJ em Amsterdã garante notificações confiáveis, promovendo ...",
-      "source": "https://www.facebook.com/revistasegurancaeletronica/posts/o-novo-sistema-de-alarme-de-inc%C3%AAndio-altamente-digitalizado-no-hospital-bovenij-/1566581098810814/"
+      "scope": "This article examines fire-safety innovations (safety matches, extinguishers and hydrants) from professional engineers and lay inventors in ...",
+      "source": "https://www.cambridge.org/core/journals/urban-history/article/safety-by-design-engineers-and-entrepreneurs-invent-fire-safety-in-mexico-city-18601910/92B34198432E0BF0F0168BE6BC94C84C"
     },
     {
-      "project": "Fire in restaurant triggers alarm and customers are evacuated",
+      "project": "A SHOPPING CENTER FIRE CATCHES IN CHILE",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "... fire has broken out inside the mall. The flames reportedly started in a restaurant located on the third floor of the shopping center.",
-      "source": "https://www.youtube.com/watch?v=RFb1F208jws"
+      "scope": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE DEPARTMENTS ARE AT WORK. 1.3K views · 9 months ago. #C5NEnVivo #C5N #Noticias ...more ...",
+      "source": "https://www.youtube.com/watch?v=7WgA6sJKMOE"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-05-12",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "Search Jobs - Honeywell Careers",
-      "impact": "); Latin America (14); United States IA (8). Posting Dates 0. Less than 30 days ... Come join a successful team supporting Fire Station Alerting Systems!"
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
