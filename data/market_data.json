@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-13T08:38:15.083533",
+  "lastUpdate": "2026-05-14T08:31:44.122691",
   "regulations": [
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,44 +26,44 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
-      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
+      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "country": "Chile",
-      "title": "A partir del 01 de noviembre de 2025 quedaron ...",
+      "title": "A partir del 01 de noviembre de 2025 quedaron restringidas todas ...",
       "impact": "Alto",
-      "description": "Porque prevenir un incendio es más fácil que combatirlo. Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura.",
+      "description": "Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura. Gobierno de Chile. Chile contigo. OCR . Región del Maule ...",
       "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
     },
     {
-      "date": "2026-05-13",
+      "date": "2026-05-14",
+      "country": "Colômbia",
+      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "impact": "Alto",
+      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia ... Aclaraciones Resolución 40492 de 2015. 5 ...",
+      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
+    },
+    {
+      "date": "2026-05-14",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
       "description": "Comments ; Conferencia Técnica Sistemas de Gas y Fuego NFPA 72. Asociación Mexicana de Protección Contra Incendio · 736 ; Honeywell - Cableado para ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
-    },
-    {
-      "date": "2026-05-13",
-      "country": "Colômbia",
-      "title": "Sistemas de Detección de Incendios en Colombia - Bigxperience",
-      "impact": "Alto",
-      "description": "Los sistemas de detección de incendios funcionan mediante la combinación de diferentes sensores y dispositivos para identificar y alertar sobre la presencia de ...",
-      "source": "https://bigxperience.com/sistemas-de-deteccion-incendios/"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/colombia-construction-industry-report-2025-144700838.html"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
     },
     {
       "country": "Argentina",
@@ -110,51 +110,51 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Licitações de sistema combate incendio - SIGA Pregão",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Encontre licitações e compras públicas para 'sistema combate incendio' em todo o Brasil. Resultados atualizados com órgão, modalidade e datas.",
-      "source": "https://www.sigapregao.com.br/app/4/licitacoes/sistema-combate-incendio"
+      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
+      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "The Final Stretch of the Largest Infrastructure Project in Latin America",
+      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Esta, é a construção da maior obra de infraestrutura em andamento na América Latina: a Linha 6-Laranja do Metrô. Com 15,3 km de extensão e ...",
-      "source": "https://www.youtube.com/watch?v=kIzon2lG88c"
+      "scope": "O projeto da estação prevê: • Área total de 34 mil metros quadrados; • Três acessos pela via; • Quatro níveis estruturais e duas plataformas; • ...",
+      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "Safety by design: engineers and entrepreneurs invent fire safety in ...",
+      "project": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "This article examines fire-safety innovations (safety matches, extinguishers and hydrants) from professional engineers and lay inventors in ...",
-      "source": "https://www.cambridge.org/core/journals/urban-history/article/safety-by-design-engineers-and-entrepreneurs-invent-fire-safety-in-mexico-city-18601910/92B34198432E0BF0F0168BE6BC94C84C"
+      "scope": "NFPA 25 Inspección, prueba y mantenimiento de sistemas contra incendios · Experiencias en instalaciones de bombas contra incendios · Brigada ...",
+      "source": "https://www.youtube.com/watch?v=sg6dH_aMnN8"
     },
     {
-      "project": "A SHOPPING CENTER FIRE CATCHES IN CHILE",
+      "project": "Latin American Shopping Chain Centralizes Security And ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE DEPARTMENTS ARE AT WORK. 1.3K views · 9 months ago. #C5NEnVivo #C5N #Noticias ...more ...",
-      "source": "https://www.youtube.com/watch?v=7WgA6sJKMOE"
+      "scope": "In 2009, Mall Plaza came up with the idea of centralizing the security systems and standardizing the subsystems of the central control area of ...",
+      "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
   "peopleMovements": [],
