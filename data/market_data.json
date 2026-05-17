@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-16T07:57:12.825568",
+  "lastUpdate": "2026-05-17T08:14:40.939627",
   "regulations": [
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,23 +34,23 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
+      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "Chile",
       "title": "A partir del 01 de noviembre de 2025 quedaron restringidas todas ...",
       "impact": "Alto",
-      "description": "CHILEAVANZACONTIGO CHILE AVANZA CONTIGO GOBIERNO DE CHILE . Región del Maule RESTRICCION USO DEL FUEGO a Goblerno Chile CHILE AVANZA CONTIGO ...",
+      "description": "Chile contigo. OCR . Región del Maule RESTRICCIÓN USO DEL FUEGO I MANUEL ALCANTAR MUÑOZ Prevenciónd de hoetbnt.cetoccatomm Incendios Forestales ...",
       "source": "https://www.instagram.com/reel/DQorDnbDl2_/"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "Colômbia",
       "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
       "impact": "Alto",
@@ -58,11 +58,11 @@
       "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
-      "description": "Comments ; Conferencia Técnica Sistemas de Gas y Fuego NFPA 72. Asociación Mexicana de Protección Contra Incendio · 736 ; Honeywell - Cableado para ...",
+      "description": "... Colombia. Representamos las mejores marcas para CCTV, intrusión, incendio, control de acceso, sistemas de parqueo, perimetría, entre otros ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     }
   ],
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://www.globaltimes.cn/page/202603/1356419.shtml"
     },
     {
       "country": "Mexico",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-140800515.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
     }
   ],
   "competitorMoves": [],
@@ -127,14 +127,14 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Watch short videos about obras metrô detecção incêndio américa latina from people around the world.",
-      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
+      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
+      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
       "project": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN ... - YouTube",
@@ -157,14 +157,6 @@
       "source": "https://www.sdmmag.com/articles/92813-latin-american-shopping-chain-centralizes-security-and-emergency-operations"
     }
   ],
-  "peopleMovements": [
-    {
-      "date": "2026-05-16",
-      "person": "Verificar fonte",
-      "from": "N/A",
-      "to": "[PDF] FIRE MONITORING SYSTEM - Bosch Building Technologies",
-      "impact": "Maps Management. - New Map. - Manage Maps. - Current Map Settings. - Set Location Zoom. - Restore Initial Location. - Set Home Map. - How to replace a map."
-    }
-  ],
+  "peopleMovements": [],
   "experts": []
 }
