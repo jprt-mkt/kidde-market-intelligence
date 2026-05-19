@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-05-18T09:52:21.573965",
+  "lastUpdate": "2026-05-19T09:34:22.083040",
   "regulations": [
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
+      "country": "América Latina",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
+      "impact": "Alto",
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
+    },
+    {
+      "date": "2026-05-19",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,15 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-18",
-      "country": "América Latina",
-      "title": "NBR 17240 - Sistemas de Detecção e Alarme de Incêndio REV1.pdf",
-      "impact": "Alto",
-      "description": "Este documento estabelece requisitos para projeto, instalação, comissionamento e manutenção de sistemas de detecção e alarme de incêndio em edificações.",
-      "source": "https://pt.slideshare.net/slideshow/nbr-17240-sistemas-de-deteco-e-alarme-de-incndio-rev1pdf/254198532"
-    },
-    {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,31 +26,31 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
-      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 (08-feb-2025) M. del Interior y Seguridad ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
-      "description": "1. Que, a la fecha existen múltiples incendios forestales activos en las regiones de Ñuble y del Maule, detectándose en los últimos días un aumento de la ...",
-      "source": "https://www.bcn.cl/leychile/navegar?idNorma=1210982"
+      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "Chile",
-      "title": "Campaña Verano 2025-2026 Incendios Forestales",
+      "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
-      "description": "No enciendas fogatas, fuego, ni manipules fuentes de calor en zonas cercanas a pastizales y bosques. Acampa solo en lugares habilitados.",
-      "source": "https://www.minsal.cl/campana-verano-2025-2026-incendios-forestales/"
+      "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
+      "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
-      "description": "El documento presenta información sobre la Normativa en Sistemas de Detección y Alarma contra Incendios en Colombia. Explica que el Reglamento Colombiano de ...",
-      "source": "https://es.scribd.com/document/670620433/Normativa-Colombiana-Deteccion-de-Incendio"
+      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
+      "source": "https://zeroriesgos.com/redes/"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/brazil-construction-industry-report-2025-155800895.html"
+      "source": "https://tradingeconomics.com/brazil/gdp-growth-annual"
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/mexico-construction-industry-report-2025-151700255.html"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
     },
     {
       "country": "Chile",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
+      "source": "https://tradingeconomics.com/colombia/full-year-gdp-growth"
     },
     {
       "country": "Argentina",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://finance.yahoo.com/news/argentina-construction-industry-report-2025-162600665.html"
+      "source": "https://tradingeconomics.com/argentina/gdp-growth-annual"
     }
   ],
   "competitorMoves": [],
@@ -127,7 +127,7 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,24 +137,24 @@
       "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN ...",
+      "project": "Evaluación del sistema contra incendios. La seguridad ... - Facebook",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "NFPA 25 Inspección, prueba y mantenimiento de sistemas contra incendios · Experiencias en instalaciones de bombas contra incendios · Brigada ...",
-      "source": "https://www.youtube.com/watch?v=sg6dH_aMnN8"
+      "scope": "La seguridad contra incendios es una prioridad en la infraestructura hospitalaria. Se deben revisar periódicamente los sistemas de detección de ...",
+      "source": "https://www.facebook.com/acoaihcr/photos/evaluaci%C3%B3n-del-sistema-contra-incendios-la-seguridad-contra-incendios-es-una-pri/1125167406316623/"
     },
     {
-      "project": "Fire in restaurant triggers alarm and customers are evacuated",
+      "project": "Fire Detection - Johnson Controls",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "... fire has broken out inside the mall. The flames reportedly started in a restaurant located on the third floor of the shopping center.",
-      "source": "https://www.youtube.com/watch?v=RFb1F208jws"
+      "scope": "Johnson Controls offers fire detection solutions that save lives, improve business, and protect people and property.",
+      "source": "https://www.johnsoncontrols.com/fire-detection"
     }
   ],
   "peopleMovements": [],
