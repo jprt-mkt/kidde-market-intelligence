@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-05-22T08:54:28.492078",
+  "lastUpdate": "2026-05-23T08:11:43.599978",
   "regulations": [
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
       "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
-      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
+      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,7 +58,7 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
+      "source": "https://tradingeconomics.com/colombia/full-year-gdp-growth"
     },
     {
       "country": "Argentina",
@@ -127,14 +127,14 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "FINAL STRAIGHT OF THE ORANGE LINE-6! The Largest ...",
+      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Acesse aqui: https://shre.ink/EngeZoneInvista A Linha 6-Laranja do Metrô de São Paulo é a maior obra de infraestrutura em andamento na América ...",
-      "source": "https://www.youtube.com/watch?v=9kgxE7-FFtQ"
+      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
+      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
       "project": "Seguridad contra incendios en hospitales - Issuu",
@@ -143,7 +143,7 @@
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "El Sistema Clase I provee una columna o montante en la escalera de evacuación, típicamente de 6 pulgadas (152 mm) de diámetro, cargada de agua a presión, con ...",
+      "scope": "Sistema de alarma: Todos los hospitales requieren un sistema de alarma a través de una alarma de tono o de voceo codificado. Se permite un retraso de hasta ...",
       "source": "https://issuu.com/latinpressinc/docs/vds_27-2/s/24385278"
     },
     {
@@ -159,7 +159,7 @@
   ],
   "peopleMovements": [
     {
-      "date": "2026-05-22",
+      "date": "2026-05-23",
       "person": "Verificar fonte",
       "from": "N/A",
       "to": "Remote Services for Bosch Fire Alarm Systems",
