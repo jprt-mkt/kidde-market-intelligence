@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-05-26T09:43:15.846286",
+  "lastUpdate": "2026-05-27T09:37:07.945022",
   "regulations": [
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "impact": "Alto",
+      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
+    },
+    {
+      "date": "2026-05-27",
+      "country": "América Latina",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
       "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-26",
-      "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
-      "impact": "Alto",
-      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
-      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
-    },
-    {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,7 +58,7 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y normatividad",
       "impact": "Alto",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
+      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
     },
     {
       "country": "Chile",
@@ -127,39 +127,39 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
+      "project": "[PDF] Detecção de Incêndio em Túneis Metroviários",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "O projeto da estação prevê: • Área total de 34 mil metros quadrados; • Três acessos pela via; • Quatro níveis estruturais e duas plataformas; • ...",
-      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
+      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
+      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
     },
     {
-      "project": "Sistemas de Detección de Incendios para Empresas en CDMX",
+      "project": "Hospital Sistemas Alarme Incêndio México",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Diseñamos e instalamos sistemas de detección y alarma contra incendios con paneles convencionales o direccionables, detectores de humo y temperatura, audio de ...",
-      "source": "https://grupoapotecnologia.com/seguridad-electronica/deteccion-incendio/"
+      "scope": "Detección y Alarma: Sensores de humo, calor o llama y pulsadores manuales que activan sirenas para avisar a los ocupantes. Extinción: Equipos diseñados para ...",
+      "source": "https://www.instagram.com/popular/hospital-sistemas-alarme-inc%C3%AAndio-m%C3%A9xico/"
     },
     {
-      "project": "Fire protection for manufacturing plant | Life Safety Systems",
+      "project": "Commercial Fire Alarms & Detection Systems | Johnson Controls",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "The Dual Ray Technology in AVENAR detectors significantly reduces false alarms in dusty production spaces as the sensors reliably detect and differentiate ...",
-      "source": "https://www.boschsecurity.com/en/customer-stories/fire-protection-paint-manufacturer-treasure-island/"
+      "scope": "Complete, integrated commercial fire alarms & smoke detector solutions. Using our advanced technology, you can build a comprehensive commercial fire alarm ...",
+      "source": "https://www.johnsoncontrols.co.uk/fire-detection"
     }
   ],
   "peopleMovements": [
     {
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "person": "Verificar fonte",
       "from": "N/A",
       "to": "Remote Services for Bosch Fire Alarm Systems",
