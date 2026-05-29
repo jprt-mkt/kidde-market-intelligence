@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-05-28T09:53:48.556946",
+  "lastUpdate": "2026-05-29T09:43:53.848548",
   "regulations": [
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,7 +34,15 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
+      "country": "Chile",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "impact": "Alto",
+      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+    },
+    {
+      "date": "2026-05-29",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -42,15 +50,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-05-28",
-      "country": "Chile",
-      "title": "Despejemos el mito: este proyecto sí se ha puesto en tabla cinco ...",
-      "impact": "Alto",
-      "description": "... 2025, con urgencia suma. Hoy hay múltiples urgencias simultáneas, y es importante decirlo claro: las urgencias las define el Gobierno, no la ...",
-      "source": "https://www.instagram.com/reel/DTvK0KUjipc/?hl=en"
-    },
-    {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04 ...",
       "impact": "Alto",
@@ -58,7 +58,7 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "country": "Colômbia",
       "title": "Redes contra incendios en Colombia: sistemas y ...",
       "impact": "Alto",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
     },
     {
       "country": "Colombia",
@@ -127,14 +127,14 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Ele tá chegando - o novo trem do Metrô ...",
+      "project": "Obras Metrô Detecção Incêndio América Latina - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A maior tuneladora da América Latina já está sendo montada e no próximo semestre começa a escavar o novo trecho da Linha 2-Verde do Metrô.",
-      "source": "https://www.instagram.com/reel/C8whSduOkap/"
+      "scope": "O projeto da estação prevê: • Área total de 34 mil metros quadrados; • Três acessos pela via; • Quatro níveis estruturais e duas plataformas; • ...",
+      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
       "project": "SISTEMAS DE PROTECCION CONTRA INCENDIOS EN ... - YouTube",
@@ -147,19 +147,19 @@
       "source": "https://www.youtube.com/watch?v=sg6dH_aMnN8"
     },
     {
-      "project": "Commercial Fire Alarms & Detection Systems | Johnson Controls",
+      "project": "Why Fire Safety in Shopping Malls is a Critical Priority",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Our smoke, heat, & gas detectors offer the most robust, reliable, and ergonomic fire detection solutions on the market.",
-      "source": "https://www.johnsoncontrols.co.uk/fire-detection"
+      "scope": "Explore fire safety in shopping malls: risks, prevention, HVAC, kitchens, evacuation plans, staff training, and building design for ...",
+      "source": "https://fsm.how/fire-safety/why-fire-safety-shopping-malls-critical/"
     }
   ],
   "peopleMovements": [
     {
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "person": "Verificar fonte",
       "from": "N/A",
       "to": "Remote Services for Bosch Fire Alarm Systems",
