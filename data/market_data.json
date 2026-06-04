@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-06-03T10:50:26.023974",
+  "lastUpdate": "2026-06-04T09:49:31.815483",
   "regulations": [
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,23 +34,23 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "Chile",
-      "title": "Incendios forestales en Chile de 2025 - Wikipedia",
+      "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
       "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
       "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "country": "Colômbia",
-      "title": "Redes contra incendios en Colombia: sistemas y normatividad",
+      "title": "Sistemas de detección de incendios, alarma y audio evacuación",
       "impact": "Alto",
-      "description": "En Colombia, las redes contra incendios deben cumplir con un marco normativo técnico y legal específico que garantiza su diseño, instalación, operación y ...",
-      "source": "https://zeroriesgos.com/redes/"
+      "description": "La normativa NFPA 72 es el estándar de oro que rige la instalación y mantenimiento de estos sistemas. Seguir estos lineamientos no es solo una cuestión de ...",
+      "source": "https://www.tecgsol.com/servicios/sistemas-contra-incendios/instalacion-de-equipos-contra-incendio/sistemas-de-deteccion-de-incendios-alarma-y-audio-evacuacion"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/mexico-gdp-grew-07-in-2025-ending-the-year-with-support-from-industry-and-services/"
+      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
     },
     {
       "country": "Chile",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
     },
     {
       "country": "Colombia",
@@ -127,7 +127,7 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "The Final Stretch of the Largest Infrastructure Project in Latin America",
+      "project": "The Final Stretch of the Largest Infrastructure Project in ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,29 +137,29 @@
       "source": "https://www.youtube.com/watch?v=kIzon2lG88c"
     },
     {
-      "project": "Sistema hospitalario en México - Revista Contra Incendio",
+      "project": "Hospital Sistemas Alarme Incêndio México - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Algunos de los principales Hospitales privados de la República son: Centro Médico ABC Campus Observatorio – Alvaro Obregón – CDMX; Médica Sur – Tlalpan – CDMX ...",
-      "source": "https://revistacontraincendio.com/nota/sistema-hospitalario-en-mexico"
+      "scope": "Detección y Alarma: Sensores de humo, calor o llama y pulsadores manuales que activan sirenas para avisar a los ocupantes. Extinción: Equipos diseñados para ...",
+      "source": "https://www.instagram.com/popular/hospital-sistemas-alarme-inc%C3%AAndio-m%C3%A9xico/"
     },
     {
-      "project": "Commercial Fire Alarms & Detection Systems | Johnson Controls",
+      "project": "Fire protection for manufacturing plant | Life Safety Systems",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Our smoke, heat, & gas detectors offer the most robust, reliable, and ergonomic fire detection solutions on the market.",
-      "source": "https://www.johnsoncontrols.co.uk/fire-detection"
+      "scope": "Highly reliable monitoring around the clock while minimizing false alarms was all possible with the installation of AVENAR fire detectors and Remote Services.",
+      "source": "https://www.boschsecurity.com/en/customer-stories/fire-protection-paint-manufacturer-treasure-island/"
     }
   ],
   "peopleMovements": [
     {
-      "date": "2026-06-03",
+      "date": "2026-06-04",
       "person": "Verificar fonte",
       "from": "N/A",
       "to": "Remote Services for Bosch Fire Alarm Systems",
