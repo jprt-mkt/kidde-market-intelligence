@@ -1,16 +1,8 @@
 {
-  "lastUpdate": "2026-06-09T09:32:56.246321",
+  "lastUpdate": "2026-06-10T09:49:29.463891",
   "regulations": [
     {
-      "date": "2026-06-09",
-      "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
-      "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
-      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
-    },
-    {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -18,7 +10,15 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
+      "country": "América Latina",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "impact": "Alto",
+      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, ...",
+      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
+    },
+    {
+      "date": "2026-06-10",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,31 +26,31 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
-      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
+      "title": "Incendios forestales en Chile de 2025 - Wikipedia",
+      "impact": "Alto",
+      "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
+      "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
+    },
+    {
+      "date": "2026-06-10",
+      "country": "Chile",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
       "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-09",
-      "country": "Chile",
-      "title": "Despejemos el mito: este proyecto sí se ha puesto en tabla ...",
-      "impact": "Alto",
-      "description": "Y este proyecto, tal como está, no fortalece la persecución penal, no aborda bien la restauración post incendio y traslada obligaciones sin ...",
-      "source": "https://www.instagram.com/reel/DTvK0KUjipc/?hl=en"
-    },
-    {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,7 +58,7 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "country": "Colômbia",
       "title": "Sistemas de detección de incendios, alarma y audio evacuación",
       "impact": "Alto",
@@ -143,18 +143,18 @@
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "En México, el sistema hospitalario está integrado por 4,229 establecimientos, Esto representa un total de 133 mil camas hospitalarias.",
+      "scope": "Algunos de los principales Hospitales privados de la República son: Centro Médico ABC Campus Observatorio – Alvaro Obregón – CDMX; Médica Sur – Tlalpan – CDMX ...",
       "source": "https://revistacontraincendio.com/nota/sistema-hospitalario-en-mexico"
     },
     {
-      "project": "Essential Fire Prevention & Protection Measures for ...",
+      "project": "A SHOPPING CENTER FIRE CATCHES IN CHILE - YouTube",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Explore shopping mall fire safety: sprinkler systems, smoke control, alarms, emergency plans, & hazard prevention for safe evacuation.",
-      "source": "https://fsm.how/fire-safety/essential-fire-prevention-shopping-malls/"
+      "scope": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE DEPARTMENTS ARE AT WORK. 1.3K views · 10 months ago. #C5NEnVivo #C5N #Noticias ...more ...",
+      "source": "https://www.youtube.com/watch?v=7WgA6sJKMOE"
     }
   ],
   "peopleMovements": [],
