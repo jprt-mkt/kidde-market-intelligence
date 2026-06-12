@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-06-11T10:15:07.648648",
+  "lastUpdate": "2026-06-12T10:03:05.035526",
   "regulations": [
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "América Latina",
-      "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
       "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, opera ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-12",
       "country": "Colômbia",
-      "title": "Sistemas de detección y supervisión de incendios de FLIR",
+      "title": "Equipos y Sistemas de Detección de Incendios en Bogotá",
       "impact": "Alto",
-      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde.",
-      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
+      "description": "Nuestros sistemas de detección y alarma contra incendios le ayudan a proteger y dar continuidad a su negocio en caso de un conato de incendio. Cumplimiento con ...",
+      "source": "https://shingenieria.com/sistemas-deteccion-incendio/?srsltid=AfmBOopdCjXB-MvM5UJqBr-D21_F13rak7Y73M5cfqexM6VqbMmj7mbm"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/brazil/gdp-growth-annual"
+      "source": "https://tradingeconomics.com/brazil/gdp-growth"
     },
     {
       "country": "Mexico",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
     },
     {
       "country": "Argentina",
@@ -143,18 +143,18 @@
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Algunos de los principales Hospitales privados de la República son: Centro Médico ABC Campus Observatorio – Alvaro Obregón – CDMX; Médica Sur – Tlalpan – CDMX ...",
+      "scope": "En México, el sistema hospitalario está integrado por 4,229 establecimientos, Esto representa un total de 133 mil camas hospitalarias.",
       "source": "https://revistacontraincendio.com/nota/sistema-hospitalario-en-mexico"
     },
     {
-      "project": "A SHOPPING CENTER FIRE CATCHES IN CHILE",
+      "project": "Essential Fire Prevention & Protection Measures for Shopping Malls",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE DEPARTMENTS ARE AT WORK ... B-22 at 10-0 Posterior Fire Alarm in Los Atácameños with Av ...",
-      "source": "https://www.youtube.com/watch?v=7WgA6sJKMOE"
+      "scope": "Explore shopping mall fire safety: sprinkler systems, smoke control, alarms, emergency plans, & hazard prevention for safe evacuation.",
+      "source": "https://fsm.how/fire-safety/essential-fire-prevention-shopping-malls/"
     }
   ],
   "peopleMovements": [],
