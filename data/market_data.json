@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-06-14T09:26:28.578921",
+  "lastUpdate": "2026-06-15T11:54:16.212073",
   "regulations": [
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,23 +34,23 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "Chile",
-      "title": "Incendios forestales en Chile de 2025",
+      "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
       "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
       "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "country": "Colômbia",
-      "title": "Sistemas de detección y supervisión de incendios de FLIR",
+      "title": "Equipos y Sistemas de Detección de Incendios en Bogotá",
       "impact": "Alto",
-      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde.",
-      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
+      "description": "Nuestros sistemas de detección y alarma contra incendios le ayudan a proteger y dar continuidad a su negocio en caso de un conato de incendio. Cumplimiento con ...",
+      "source": "https://shingenieria.com/sistemas-deteccion-incendio/?srsltid=AfmBOoomdWNQEr3aGOC9zg7T5G-2Qsy-58D8KCVI6AiNq2s0uLyf5AEg"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/colombia/gdp-from-construction"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -117,14 +117,14 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "[PDF] pregão eletrônico – execução de serviços não continuados",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
-      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
+      "scope": "A utilização dos eletrodutos é de modo exclusivo, sem compartilhamento com os demais sistemas, exceto sistema de detecção de incêndio. Os ...",
+      "source": "https://www.defensoria.rs.def.br/upload/arquivos/202507/09145736-edital-pe-28-2025-instalacao-de-sistema-de-hidrantes-e-mangotinhos-compressed.pdf"
     },
     {
       "project": "FINAL STRAIGHT OF THE ORANGE LINE-6! The Largest ...",
@@ -147,14 +147,14 @@
       "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
     },
     {
-      "project": "GFE fire detection equipment protects KUMSmall, Europe's largest ...",
+      "project": "Essential Fire Prevention & Protection Measures for Shopping Malls",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Fire detection solutions from Global Fire Equipment (GFE) have been installed in the KUMSmall Factory Shopping Mall, the largest mixed-use ...",
-      "source": "https://gulffire.com/gfe-fire-detection-equipment-protects-kumsmall-europes-largest-mixed-use-shopping-mall/"
+      "scope": "Explore shopping mall fire safety: sprinkler systems, smoke control, alarms, emergency plans, & hazard prevention for safe evacuation.",
+      "source": "https://fsm.how/fire-safety/essential-fire-prevention-shopping-malls/"
     }
   ],
   "peopleMovements": [],
