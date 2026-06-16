@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-06-15T11:54:16.212073",
+  "lastUpdate": "2026-06-16T11:02:23.638413",
   "regulations": [
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "América Latina",
       "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "country": "Colômbia",
-      "title": "Equipos y Sistemas de Detección de Incendios en Bogotá",
+      "title": "Sistemas de detección y supervisión de incendios de FLIR",
       "impact": "Alto",
-      "description": "Nuestros sistemas de detección y alarma contra incendios le ayudan a proteger y dar continuidad a su negocio en caso de un conato de incendio. Cumplimiento con ...",
-      "source": "https://shingenieria.com/sistemas-deteccion-incendio/?srsltid=AfmBOoomdWNQEr3aGOC9zg7T5G-2Qsy-58D8KCVI6AiNq2s0uLyf5AEg"
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde.",
+      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": "https://tradingeconomics.com/colombia/full-year-gdp-growth"
     },
     {
       "country": "Argentina",
@@ -123,7 +123,7 @@
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A utilização dos eletrodutos é de modo exclusivo, sem compartilhamento com os demais sistemas, exceto sistema de detecção de incêndio. Os ...",
+      "scope": "O sistema de alarme de incêndio deve ser do tipo endereçável. A utilização dos eletrodutos é de modo exclusivo, sem compartilhamento com os ...",
       "source": "https://www.defensoria.rs.def.br/upload/arquivos/202507/09145736-edital-pe-28-2025-instalacao-de-sistema-de-hidrantes-e-mangotinhos-compressed.pdf"
     },
     {
@@ -137,24 +137,24 @@
       "source": "https://www.youtube.com/watch?v=9kgxE7-FFtQ"
     },
     {
-      "project": "Hospital BovenIj opta por un sistema inteligente de seguridad contra ...",
+      "project": "Sistema hospitalario en México - Revista Contra Incendio",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "El nuevo sistema de alarma contra incendios altamente digitalizado del hospital BoveNij en Ámsterdam garantiza notificaciones confiables, promoviendo así ...",
-      "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
+      "scope": "Algunos de los principales Hospitales privados de la República son: Centro Médico ABC Campus Observatorio – Alvaro Obregón – CDMX; Médica Sur – Tlalpan – CDMX ...",
+      "source": "https://revistacontraincendio.com/nota/sistema-hospitalario-en-mexico"
     },
     {
-      "project": "Essential Fire Prevention & Protection Measures for Shopping Malls",
+      "project": "Why Fire Safety in Shopping Malls is a Critical Priority",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Explore shopping mall fire safety: sprinkler systems, smoke control, alarms, emergency plans, & hazard prevention for safe evacuation.",
-      "source": "https://fsm.how/fire-safety/essential-fire-prevention-shopping-malls/"
+      "scope": "Explore fire safety in shopping malls: risks, prevention, HVAC, kitchens, evacuation plans, staff training, and building design for ...",
+      "source": "https://fsm.how/fire-safety/why-fire-safety-shopping-malls-critical/"
     }
   ],
   "peopleMovements": [],
