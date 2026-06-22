@@ -1,16 +1,8 @@
 {
-  "lastUpdate": "2026-06-21T09:42:40.548913",
+  "lastUpdate": "2026-06-22T11:44:09.245691",
   "regulations": [
     {
-      "date": "2026-06-21",
-      "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
-      "impact": "Alto",
-      "description": "Ou seja, ela define as regras para que esses sistemas sejam projetados corretamente e funcionem de forma eficiente, garantindo que um incêndio ...",
-      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
-    },
-    {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de ... - Target Normas",
       "impact": "Alto",
@@ -18,23 +10,31 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "impact": "Alto",
+      "description": "Ou seja, ela define as regras para que esses sistemas sejam projetados corretamente e funcionem de forma eficiente, garantindo que um incêndio ...",
+      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
+    },
+    {
+      "date": "2026-06-22",
+      "country": "América Latina",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
       "description": "Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima de 15 m, siempre que sean del tipo móvil.",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "América Latina",
-      "title": "[PDF] GUÍA INFORMATIVA NOM-002-STPS-2010 - Gob MX",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
-      "description": "De la Norma destacan las medidas técnico-administrativas para la prevención y protección contra incendios en los centros de trabajo, ya que en ella se establece ...",
-      "source": "https://www.gob.mx/cms/uploads/attachment/file/807653/GUIA_INFORMATIVA_NOM-002_2.pdf"
+      "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -42,15 +42,15 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "Chile",
-      "title": "A partir del 1 de noviembre de 2025 comienzan las ... - Instagram",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
-      "description": "Evitar los incendios forestales es tarea de todos y todas. Ministerio de Agricultura. Gobierno de Chile. Chile contigo. OCR . Región del Maule ...",
-      "source": "https://www.instagram.com/reel/DQCpdxAgLO0/"
+      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "country": "Colômbia",
-      "title": "Sistemas de detección de incendios, alarma y audio evacuación",
+      "title": "Normativas de seguridad contra incendios en Colombia - Guía",
       "impact": "Alto",
-      "description": "La normativa NFPA 72 es el estándar de oro que rige la instalación y mantenimiento de estos sistemas. Seguir estos lineamientos no es solo una cuestión de ...",
-      "source": "https://www.tecgsol.com/servicios/sistemas-contra-incendios/instalacion-de-equipos-contra-incendio/sistemas-de-deteccion-de-incendios-alarma-y-audio-evacuacion"
+      "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
+      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOorkmkYaSqR91GB5Yy1tAQPiFIB4pxeq5S-27zl0HrBA4Emf9Kfx"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/brazil/gdp-growth-annual"
+      "source": "https://tradingeconomics.com/brazil/gdp-growth"
     },
     {
       "country": "Mexico",
@@ -117,7 +117,7 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -137,7 +137,7 @@
       "source": "https://www.youtube.com/watch?v=9kgxE7-FFtQ"
     },
     {
-      "project": "Hospital BovenIj opta por un sistema inteligente de ...",
+      "project": "Hospital BovenIj opta por un sistema inteligente de seguridad contra ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
@@ -147,14 +147,14 @@
       "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
     },
     {
-      "project": "How Important Are Fire Alarm Systems In Shopping Malls",
+      "project": "Shoppers at Northlake Mall were forced to evacuate after the fire ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A well-designed fire alarm system can detect the earliest signs of smoke or heat, triggering an alarm that alerts both the mall's management and ...",
-      "source": "https://firesafetyalarms.com/how-important-are-fire-alarm-systems-in-shopping-malls/"
+      "scope": "All stores in the mall will close up upon the alarms activating. There are absolutely no services or shopping that you can do. Alarms ringing ...",
+      "source": "https://www.facebook.com/WCNCtv/posts/shoppers-at-northlake-mall-were-forced-to-evacuate-after-the-fire-alarm-went-off/2206917262683085/"
     }
   ],
   "peopleMovements": [],
