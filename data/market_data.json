@@ -1,16 +1,16 @@
 {
-  "lastUpdate": "2026-07-01T09:37:17.029067",
+  "lastUpdate": "2026-07-02T08:48:46.469645",
   "regulations": [
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, opera ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "América Latina",
       "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025 - Wikipedia",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "Colômbia",
       "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
       "impact": "Alto",
@@ -58,11 +58,11 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "country": "Colômbia",
       "title": "Sistemas de detección y supervisión de incendios de FLIR",
       "impact": "Alto",
-      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde.",
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde. ...",
       "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
     },
     {
       "country": "Colombia",
@@ -127,14 +127,14 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "BMX1 Engenharia on Instagram: \"Segurança que vai além da obra ...",
+      "project": "The Final Stretch of the Largest Infrastructure Project in Latin America",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Segurança que vai além da obra. Na Linha 6 – Laranja, a BMX1 Engenharia segue avançando na instalação da tubulação da rede de incêndio nos ...",
-      "source": "https://www.instagram.com/p/DZnl9wsGe5A/"
+      "scope": "Esta, é a construção da maior obra de infraestrutura em andamento na América Latina: a Linha 6-Laranja do Metrô. Com 15,3 km de extensão e ...",
+      "source": "https://www.youtube.com/watch?v=kIzon2lG88c"
     },
     {
       "project": "Hospital Sistemas Alarme Incêndio México - Instagram",
@@ -157,6 +157,14 @@
       "source": "https://fsm.how/fire-safety/why-fire-safety-shopping-malls-critical/"
     }
   ],
-  "peopleMovements": [],
+  "peopleMovements": [
+    {
+      "date": "2026-07-02",
+      "person": "Verificar fonte",
+      "from": "N/A",
+      "to": "Smoke Alarm Installation · NYC311 - NYC.gov",
+      "impact": "Installation appointment requests must be submitted online. Learn how to request a free smoke alarm installation appointment. Learn more about the American ..."
+    }
+  ],
   "experts": []
 }
