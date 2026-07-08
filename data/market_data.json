@@ -1,24 +1,24 @@
 {
-  "lastUpdate": "2026-07-07T09:32:30.321138",
+  "lastUpdate": "2026-07-08T08:18:21.558368",
   "regulations": [
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
       "impact": "Alto",
-      "description": "Ou seja, ela define as regras para que esses sistemas sejam projetados corretamente e funcionem de forma eficiente, garantindo que um incêndio ...",
+      "description": "É aqui que entram os sistemas de detecção e alarme de incêndio, regulamentados no Brasil pela norma ABNT NBR 17240. Embora seja uma norma ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "América Latina",
-      "title": "[PDF] ABNT NBR 17240 - Norma de Desempenho",
+      "title": "ABNT NBR 17240 NBR17240 Sistemas de detecção alarme",
       "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio em e ...",
-      "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio.",
+      "source": "https://www.normas.com.br/visualizar/abnt-nbr-nm/30020/abnt-nbr17240-sistemas-de-deteccao-e-alarme-de-incendio-projeto-instalacao-comissionamento-e-manutencao-de-sistemas-de-deteccao-e-alarme-de-incendio-requisitos"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía ...",
       "impact": "Alto",
@@ -34,36 +34,36 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "Chile",
-      "title": "Incendios forestales en Chile de 2025 - Wikipedia",
+      "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
       "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "description": "- Declárase estado de excepción constitucional de emergencia en las regiones de Ñuble y del Maule, por el plazo de 15 días desde la publicación ...",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "Colômbia",
-      "title": "Normativa de Detección de Incendio en Colombia 2020/04/14",
+      "title": "Honeywell - Fire Detection Regulations in Colombia 04/14/2020",
       "impact": "Alto",
-      "description": "Comments ; Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14. Full Protection Corp · 101K views ; Honeywell - Diseño basado en ...",
+      "description": "Comments · Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · Normas NFPA contra incendios · Expedientes Electrónicos (AGN ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia | PDF - Scribd",
+      "title": "Sistemas de detección y supervisión de incendios de FLIR",
       "impact": "Alto",
-      "description": "1) El documento describe la normatividad colombiana aplicable a los sistemas de detección y alarma de incendio. 2) Establece que el Código NSR-10 y el ...",
-      "source": "https://es.scribd.com/document/491757882/Normatividad-de-Incendio-Colombiana-2"
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde.",
+      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
   "macroEconomic": [
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-growth-annual"
+      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/colombia/full-year-gdp-growth"
+      "source": "https://www.oecd.org/en/publications/2025/12/oecd-economic-outlook-volume-2025-issue-2_413f7d0a/full-report/colombia_18839676.html"
     },
     {
       "country": "Argentina",
@@ -117,7 +117,7 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – Cogic: Contratação de ...",
+      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
@@ -127,34 +127,34 @@
       "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
     },
     {
-      "project": "Detecção de Incêndio em Túneis Metroviários",
+      "project": "FINAL STRAIGHT OF THE ORANGE LINE-6! The Largest ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
-      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
+      "scope": "Acesse aqui: https://shre.ink/EngeZoneInvista A Linha 6-Laranja do Metrô de São Paulo é a maior obra de infraestrutura em andamento na América ...",
+      "source": "https://www.youtube.com/watch?v=9kgxE7-FFtQ"
     },
     {
-      "project": "Incendios en hospitales: la emergencia que pocos prevén. - YouTube",
+      "project": "La modernización y la tecnología remota proporcionan ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "... hospital presenta un desafío técnico ... Beneficios de contar con sistemas contra incendio en edificios de gran altura y riesgos especiales.",
-      "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
+      "scope": "Dispositivos de detección y centrales de incendio en red proporcionan una cobertura de seguridad optimizada para el Hospital Centro Médico Campinas.",
+      "source": "https://www.boschsecurity.com/es/historias-de-clientes/hospital-centro-medico-campinas/"
     },
     {
-      "project": "GFE fire detection equipment protects Europe's largest mixed-use ...",
+      "project": "The Benefits of Fire Alarms for Shopping Malls - Fireline",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Fire detection solutions from Global Fire Equipment (GFE) have been installed in the KUMSmall Factory Shopping Mall, the largest mixed-use shopping mall in ...",
-      "source": "https://internationalfireandsafetyjournal.com/gfe-fire-detection-equipment-protects-europes-largest-mixed-use-shopping-mall/"
+      "scope": "Smoke detectors can protect shopping malls from devastating fire damage and loss of life by detecting visible and invisible smoke particles.",
+      "source": "https://www.fireline.com/the-benefits-of-fire-alarms-for-shopping-malls/"
     }
   ],
   "peopleMovements": [],
