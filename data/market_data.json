@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-07-15T07:58:43.135465",
+  "lastUpdate": "2026-07-16T08:03:55.723089",
   "regulations": [
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
+      "country": "América Latina",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
+      "impact": "Alto",
+      "description": "Ou seja, ela define as regras para que esses sistemas sejam projetados corretamente e funcionem de forma eficiente, garantindo que um incêndio ...",
+      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
+    },
+    {
+      "date": "2026-07-16",
       "country": "América Latina",
       "title": "ABNT NBR 17240 - Norma de Desempenho",
       "impact": "Alto",
@@ -10,31 +18,23 @@
       "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
-      "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, opera ...",
-      "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
-    },
-    {
-      "date": "2026-07-15",
-      "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
       "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "América Latina",
-      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía 2024",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
       "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
@@ -42,27 +42,27 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "description": "- Declárase estado de excepción constitucional de emergencia en las regiones de Ñuble y del Maule, por el plazo de 15 días desde la publicación ...",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "Colômbia",
       "title": "Honeywell - Fire Detection Regulations in Colombia 04/14/2020",
       "impact": "Alto",
-      "description": "Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · Normas NFPA contra incendios · Expedientes Electrónicos (AGN Colombia) ...",
+      "description": "Honeywell - Cableado para Sistemas de Detección de Incendio 2020/04/14 · Normas NFPA contra incendios · Expedientes Electrónicos (AGN Colombia) ...",
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "country": "Colômbia",
       "title": "Detección temprana de incendios",
       "impact": "Alto",
-      "description": "Las cámaras térmicas de tráfico de FLIR permiten a los operadores de tráfico detectar puntos calientes, ver a través del humo y alertar a los servicios de ...",
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde. ...",
       "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://en.wikipedia.org/wiki/Economy_of_Brazil"
+      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
     },
     {
       "country": "Mexico",
@@ -110,41 +110,41 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.reuters.com/world/americas/argentinas-economy-expands-44-2025-2026-03-20/"
+      "source": "https://tradingeconomics.com/argentina/gdp-growth-annual"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Aviso de licitação – PGE n° 90013/2025 – ...",
+      "project": "Compras.gov.br",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Objeto: Contratação de serviços comuns contínuos de manutenção preventiva e corretiva com fornecimentos de peças e materiais para sistemas de ...",
-      "source": "https://www.cogic.fiocruz.br/2026/02/6105/"
+      "scope": "Edital a partir de: 07/05/2025 das 08:00 às 12:00 Hs e das 14: ... 2 - Manutenção de Sistemas de Proteção Contra Incêndio Manutenção de sistemas de detecção ...",
+      "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
     },
     {
-      "project": "The Final Stretch of the Largest Infrastructure Project in Latin America ...",
+      "project": "FINAL STRAIGHT OF THE ORANGE LINE-6! The Largest Project in Latin ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Esta, é a construção da maior obra de infraestrutura em andamento na América Latina: a Linha 6-Laranja do Metrô. Com 15,3 km de extensão e ...",
-      "source": "https://www.youtube.com/watch?v=kIzon2lG88c"
+      "scope": "Acesse aqui: https://shre.ink/EngeZoneInvista A Linha 6-Laranja do Metrô de São Paulo é a maior obra de infraestrutura em andamento na América ...",
+      "source": "https://www.youtube.com/watch?v=9kgxE7-FFtQ"
     },
     {
-      "project": "Incendios en hospitales: la emergencia que pocos prevén.",
+      "project": "La modernización y la tecnología remota proporcionan ...",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "En el sector Healthcare, la seguridad contra incendios no es una solución de \"talla única\". Cada metro cuadrado de un hospital presenta un ...",
-      "source": "https://www.youtube.com/watch?v=orvA1BqMthE"
+      "scope": "Dispositivos de detección y centrales de incendio en red proporcionan una cobertura de seguridad optimizada para el Hospital Centro Médico Campinas.",
+      "source": "https://www.boschbuildingtechnologies.com/lifesafetysystems/es/historias-de-clientes/hospital-centro-medico-campinas/"
     },
     {
       "project": "The Benefits of Fire Alarms for Shopping Malls - Fireline Corporation",
