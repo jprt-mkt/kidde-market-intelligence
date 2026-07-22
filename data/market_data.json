@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-07-21T08:17:55.046627",
+  "lastUpdate": "2026-07-22T08:18:48.723807",
   "regulations": [
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,31 +10,31 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "América Latina",
-      "title": "[PDF] ABNT NBR 17240:2010 - Norma de Desempenho",
+      "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
       "impact": "Alto",
       "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio em e ...",
       "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
       "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "América Latina",
-      "title": "Sistemas contra incendio en México:recap 2025",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
-      "description": "La NOM-002-STPS-2010 sigue siendo la base legal obligatoria en México, pero en 2025 cambió algo clave: la forma en que se está aplicando.",
-      "source": "https://www.labodegadelinstalador.net/sistemas-contra-incendio-en-mexicorecap-2025/?srsltid=AfmBOor6fO8h8RNUHs-XzSfwQdglhEbljRsv2Hb93iD5i9zZDXZb16A2"
+      "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
+      "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
@@ -42,15 +42,15 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "description": "- Declárase estado de excepción constitucional de emergencia en las regiones de Ñuble y del Maule, por el plazo de 15 días desde la publicación ...",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "Colômbia",
       "title": "YouTube",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "country": "Colômbia",
-      "title": "La Importancia de los Sistemas de Detección de Incendios",
+      "title": "Normativas de seguridad contra incendios en Colombia - Guía",
       "impact": "Alto",
-      "description": "Estos sistemas, que pueden incluir desde torres de vigilancia hasta tecnología satelital avanzada, permiten detectar incendios en etapas tempranas, antes de que ...",
-      "source": "https://shingenieria.com/incendios-forestales-en-colombia-la-importancia-de-los-sistemas-de-deteccion-de-incendios/?srsltid=AfmBOoot-g26ESYet6JkhG6t2vXbmF_bb6Ryr_eIvNgq787-wzDwMJWQ"
+      "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
+      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOopHGAM-b2pXZiCJcBK4yxfgT1jsMIVgh60KRB_6LpE_cZf2fPPG"
     }
   ],
   "macroEconomic": [
@@ -127,24 +127,24 @@
       "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
     },
     {
-      "project": "Detecção de Incêndio em Túneis Metroviários",
+      "project": "Obras Metrô Detecção Incêndio América Latina",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Ainda hoje, não são utilizados detectores de incêndio em túneis metroviários na América Latina. A preocupação com incêndios nos túneis do Metrô é cada vez mais ...",
-      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
+      "scope": "A concessionária responsável pela Linha 4-Amarela do Metrô de São Paulo iniciou, nesta terça-feira (24), a escavação da futura estação em Taboão ...",
+      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "Hospital BovenIj opta por un sistema inteligente de seguridad contra ...",
+      "project": "Hospital Sistemas Alarme Incêndio México",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "El nuevo sistema de alarma contra incendios altamente digitalizado del hospital BoveNij en Ámsterdam garantiza notificaciones confiables, promoviendo así ...",
-      "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
+      "scope": "Detección y Alarma: Sensores de humo, calor o llama y pulsadores manuales que activan sirenas para avisar a los ocupantes. Extinción: Equipos diseñados para ...",
+      "source": "https://www.instagram.com/popular/hospital-sistemas-alarme-inc%C3%AAndio-m%C3%A9xico/"
     },
     {
       "project": "GFE fire detection equipment protects Europe's largest ...",
