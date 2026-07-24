@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-07-23T08:22:06.398303",
+  "lastUpdate": "2026-07-24T08:16:44.881347",
   "regulations": [
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "América Latina",
       "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
@@ -34,36 +34,36 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-23",
-      "country": "Chile",
-      "title": "Incendios forestales en Chile de 2025",
-      "impact": "Alto",
-      "description": "Los incendios forestales en Chile de 2025 se originaron a partir del 9 de enero de dicho año en múltiples focos en las regiones de Coquimbo, Valparaíso, ...",
-      "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
-    },
-    {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
+      "description": "- Declárase estado de excepción constitucional de emergencia en las regiones de Ñuble y del Maule, por el plazo de 15 días desde la publicación ...",
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-23",
-      "country": "Colômbia",
-      "title": "La Importancia de los Sistemas de Detección de Incendios",
+      "date": "2026-07-24",
+      "country": "Chile",
+      "title": "Duplicamos presupuesto para combatir incendios: Plan ...",
       "impact": "Alto",
-      "description": "Estos sistemas, que pueden incluir desde torres de vigilancia hasta tecnología satelital avanzada, permiten detectar incendios en etapas tempranas, antes de que ...",
-      "source": "https://shingenieria.com/incendios-forestales-en-colombia-la-importancia-de-los-sistemas-de-deteccion-de-incendios/?srsltid=AfmBOoq6Su3JD5WEqQfI6iWldvCvY6w1CGevsam3y85hLHrMnV833czw"
+      "description": "El presupuesto para la temporada de incendios forestales 2025-2026 alcanzará los $160.803 millones. Esta cifra representa un aumento del 113% ...",
+      "source": "https://www.gob.cl/noticias/plan-accion-incendios-forestales-2025-2026-prevencion-mitigacion-control/"
     },
     {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "country": "Colômbia",
-      "title": "Normativa Sistemas Detección Incendios Colombia",
+      "title": "YouTube",
       "impact": "Alto",
-      "description": "1) El documento describe la normatividad colombiana aplicable a los sistemas de detección y alarma de incendio. 2) Establece que el Código NSR-10 y el ...",
-      "source": "https://es.scribd.com/document/491757882/Normatividad-de-Incendio-Colombiana-2"
+      "description": "Share your videos with friends, family, and the world.",
+      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+    },
+    {
+      "date": "2026-07-24",
+      "country": "Colômbia",
+      "title": "Detección temprana de incendios",
+      "impact": "Alto",
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde. ...",
+      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
   "macroEconomic": [
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
+      "source": "https://tradingeconomics.com/mexico/gdp-from-construction"
     },
     {
       "country": "Chile",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -110,51 +110,51 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/full-year-gdp-growth"
+      "source": "https://tradingeconomics.com/argentina/gdp-growth-annual"
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Compras.gov.br",
+      "project": "PR95 - 21.893.499-4 - LICITAÇÃO SISTEMAS DE INCÊNDIO - HRG",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Edital a partir de: 07/05/2025 das 08:00 às 12:00 Hs e das 14: ... 2 - Manutenção de Sistemas de Proteção Contra Incêndio Manutenção de sistemas de detecção ...",
-      "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
+      "scope": "1 OBJETO: A presente licitação tem por objeto a CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS DE MANUTENÇÃO. PREVENTIVA E CORRETIVA DOS SISTEMAS DE ...",
+      "source": "https://pncp.gov.br/pncp-api/v1/orgaos/24039073000155/compras/2024/249/arquivos/1"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "Detecção de incêndio em túneis metroviários (2010)",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A concessionária responsável pela Linha 4-Amarela do Metrô de São Paulo iniciou, nesta terça-feira (24), a escavação da futura estação em Taboão ...",
-      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
+      "scope": "Desta forma, o objetivo deste trabalho é apresentar um estudo sobre vários tipos de detectores de incêndio, e fornecer uma proposta para utilizar em metrô e ...",
+      "source": "https://bdta.abcd.usp.br/item/002128079"
     },
     {
-      "project": "Seguridad contra incendios en centros sanitarios",
+      "project": "Hospital Privado Nivel III — Poniente CDMX",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
-      "source": "https://www.boschsecurity.com/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
+      "scope": "Revisa 7 sistemas, Sistema de Detección y Alarma La detección y alarma se utiliza para identificar condiciones de humo, con prealarma y protocolos de evacuación",
+      "source": "https://gamademexico.com/empresas-certificadas/hospital-privado-nivel-iii-cdmx-poniente"
     },
     {
-      "project": "Fire protection for manufacturing plant | Life Safety Systems",
+      "project": "The Benefits of Fire Alarms for Shopping Malls - Fireline",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "The system integrators installed detectors with optical and thermal sensors to ensure fire alarms would be sounded by excessive heat, smoke or flames.",
-      "source": "https://www.boschbuildingtechnologies.com/lifesafetysystems/en/customer-stories/fire-protection-paint-manufacturer-treasure-island/"
+      "scope": "Smoke detectors can protect shopping malls from devastating fire damage and loss of life by detecting visible and invisible smoke particles.",
+      "source": "https://www.fireline.com/the-benefits-of-fire-alarms-for-shopping-malls/"
     }
   ],
   "peopleMovements": [],
