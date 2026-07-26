@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-07-25T07:58:58.091900",
+  "lastUpdate": "2026-07-26T08:18:17.432925",
   "regulations": [
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "América Latina",
       "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
       "impact": "Alto",
@@ -10,7 +10,7 @@
       "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +18,7 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía 2024",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "Colômbia",
       "title": "YouTube",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "country": "Colômbia",
-      "title": "Incendios Forestales en Colombia: La Importancia de los Sistemas de ...",
+      "title": "Detección temprana de incendios",
       "impact": "Alto",
-      "description": "Al proporcionar alertas rápidas y precisas, los sistemas de detección de incendios permiten una respuesta más efectiva por parte de los equipos de bomberos y ...",
-      "source": "https://shingenieria.com/incendios-forestales-en-colombia-la-importancia-de-los-sistemas-de-deteccion-de-incendios/?srsltid=AfmBOorEFWgJnZAtDO1xpZyRydCKlcwrwX4wfXxURWn9yGP3kLQor4WP"
+      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde. ...",
+      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.oecd.org/en/publications/2025/12/oecd-economic-outlook-volume-2025-issue-2_413f7d0a/full-report/colombia_18839676.html"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
     },
     {
       "country": "Argentina",
@@ -110,7 +110,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-from-construction"
+      "source": "https://tradingeconomics.com/argentina/gdp-growth-annual"
     }
   ],
   "competitorMoves": [],
@@ -127,34 +127,34 @@
       "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
     },
     {
-      "project": "Detecção de Incêndio em Túneis Metroviários",
+      "project": "Obras Metrô Detecção Incêndio América Latina",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A crescente preocupação com a segurança dos sistemas de transporte subterrâneo, exacerbada por recentes ocorrências de acidentes em túneis de metrô,.",
-      "source": "https://bdta.abcd.usp.br/directbitstream/c53860f4-412e-4d19-b040-c366e2290396/FABIO_-_WALTER.pdf"
+      "scope": "A concessionária responsável pela Linha 4-Amarela do Metrô de São Paulo iniciou, nesta terça-feira (24), a escavação da futura estação em Taboão ...",
+      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
     },
     {
-      "project": "Hospital BovenIj opta por un sistema inteligente de seguridad contra ...",
+      "project": "Sistema contra incendios para hospitales | 1ª visita gratis",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "El nuevo sistema de alarma contra incendios altamente digitalizado del hospital BoveNij en Ámsterdam garantiza notificaciones confiables, promoviendo así ...",
-      "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
+      "scope": "Sistema contra incendios para hospitales. Primera visita sin costo. Ideas Supply, diseña, instala y asesora en sistemas contra incendios en México.",
+      "source": "https://isupply.com.mx/sistema-contra-incendios-para-hospitales/"
     },
     {
-      "project": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE ...",
+      "project": "Common Causes of Fire in Shopping Malls and How to Prevent Them",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A SHOPPING CENTER FIRE CATCHES IN CHILE: SEVERAL FIRE DEPARTMENTS ARE AT WORK. Chile's Coastal Risk Map in the Face of a Powerful Storm",
-      "source": "https://www.youtube.com/watch?v=7WgA6sJKMOE"
+      "scope": "Explore common fire causes in shopping malls, from electrical faults to food court hazards, and learn prevention strategies to ensure ...",
+      "source": "https://fsm.how/fire-safety/common-causes-fire-shopping-malls/"
     }
   ],
   "peopleMovements": [],
