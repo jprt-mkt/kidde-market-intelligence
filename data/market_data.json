@@ -1,16 +1,8 @@
 {
-  "lastUpdate": "2026-07-26T08:18:17.432925",
+  "lastUpdate": "2026-07-27T09:40:14.171296",
   "regulations": [
     {
-      "date": "2026-07-26",
-      "country": "América Latina",
-      "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
-      "impact": "Alto",
-      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio em e ...",
-      "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
-    },
-    {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "América Latina",
       "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
@@ -18,7 +10,15 @@
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
+      "country": "América Latina",
+      "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
+      "impact": "Alto",
+      "description": "Esta Norma especifica requisitos para projeto, instalação, comissionamento e manutenção de sistemas manuais e automáticos de detecção e alarme de incêndio em e ...",
+      "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
+    },
+    {
+      "date": "2026-07-27",
       "country": "América Latina",
       "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
       "impact": "Alto",
@@ -26,7 +26,7 @@
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "América Latina",
       "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía 2024",
       "impact": "Alto",
@@ -34,7 +34,7 @@
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
@@ -42,28 +42,28 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "Chile",
-      "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
+      "title": "Despejemos el mito: este proyecto sí se ha puesto en tabla cinco veces ...",
       "impact": "Alto",
-      "description": "DECLARA ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA EN LAS ZONAS DEL TERRITORIO NACIONAL QUE INDICA.",
-      "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
+      "description": "N/A",
+      "source": "https://www.instagram.com/reel/DTvK0KUjipc/?hl=en"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "Colômbia",
-      "title": "YouTube",
+      "title": "Sistemas de extinción y detección de incendios en Colombia",
       "impact": "Alto",
-      "description": "Share your videos with friends, family, and the world.",
-      "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
+      "description": "En Colombia, estos sistemas deben instalarse y mantenerse de acuerdo con estándares internacionales como NFPA 20 y NFPA 25, adaptados a las ...",
+      "source": "https://inspecciones.com.co/sistemas-de-extincion-y-deteccion-de-incendios-en-colombia-esenciales-para-seguridad-y-cumplimiento-reglamentario/"
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "country": "Colômbia",
-      "title": "Detección temprana de incendios",
+      "title": "Normativa Sistemas Detección Incendios Colombia",
       "impact": "Alto",
-      "description": "La mayoría de los sistemas de detección de incendios actuales están diseñados para contener un incendio una vez que se inicia, que a menudo es demasiado tarde. ...",
-      "source": "https://www.flir.com/es-mx/instruments/fire-prevention/"
+      "description": "1) El documento describe la normatividad colombiana aplicable a los sistemas de detección y alarma de incendio. 2) Establece que el Código NSR-10 y el ...",
+      "source": "https://es.scribd.com/document/491757882/Normatividad-de-Incendio-Colombiana-2"
     }
   ],
   "macroEconomic": [
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-economic-outlook-december-2025/"
     },
     {
       "country": "Argentina",
@@ -117,44 +117,44 @@
   "newProducts": [],
   "majorProjects": [
     {
-      "project": "Compras.gov.br",
+      "project": "PREGÃO ELETRÔNICO Nº 90005/2025 | Ministério Público do Estado ...",
       "country": "Brasil",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Edital a partir de: 07/05/2025 das 08:00 às 12:00 Hs e das 14: ... 2 - Manutenção de Sistemas de Proteção Contra Incêndio Manutenção de sistemas de detecção ...",
-      "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
+      "scope": "Objeto: Contratação de pessoa jurídica da área de engenharia para o fornecimento e instalação de sistema de detecção e alarme de incêndio sem fio, para a sede ...",
+      "source": "https://www.mpba.mp.br/contratacao/77497"
     },
     {
-      "project": "Obras Metrô Detecção Incêndio América Latina",
+      "project": "acciona - Instagram",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "A concessionária responsável pela Linha 4-Amarela do Metrô de São Paulo iniciou, nesta terça-feira (24), a escavação da futura estação em Taboão ...",
-      "source": "https://www.instagram.com/popular/obras-metr%C3%B4-detec%C3%A7%C3%A3o-inc%C3%AAndio-am%C3%A9rica-latina/"
+      "scope": "dos maiores projetos de infraestrutura urbana da América Latina. A Linha 6-Laranja de metrô, construída pela ACCIONA, vai transformar a vida ...",
+      "source": "https://www.instagram.com/reel/DaSj9MbtuZM/"
     },
     {
-      "project": "Sistema contra incendios para hospitales | 1ª visita gratis",
+      "project": "Seguridad contra incendios en centros sanitarios",
       "country": "América Latina",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Sistema contra incendios para hospitales. Primera visita sin costo. Ideas Supply, diseña, instala y asesora en sistemas contra incendios en México.",
-      "source": "https://isupply.com.mx/sistema-contra-incendios-para-hospitales/"
+      "scope": "Con Bosch Remote Services, los trabajadores de seguridad pueden configurar detectores y alarmas de incendio y recibir alertas si es necesario realizar tareas de ...",
+      "source": "https://www.boschbuildingtechnologies.com/lifesafetysystems/es/sectores/seguridad-contra-incendios-en-centros-sanitarios/"
     },
     {
-      "project": "Common Causes of Fire in Shopping Malls and How to Prevent Them",
+      "project": "MASSIVE FIRE CONSUMES COMMERCIAL PREMISES IN ...",
       "country": "Chile",
       "value": "N/A",
       "winner": "Em licitação",
       "status": "Aberto",
       "contacts": "Verificar fonte",
-      "scope": "Explore common fire causes in shopping malls, from electrical faults to food court hazards, and learn prevention strategies to ensure ...",
-      "source": "https://fsm.how/fire-safety/common-causes-fire-shopping-malls/"
+      "scope": "This Monday afternoon, June 9th, a fire alarm was triggered in several commercial premises, forcing the evacuation of people from surrounding ...",
+      "source": "https://x.com/rgcqcl/status/2064421832565158322"
     }
   ],
   "peopleMovements": [],
