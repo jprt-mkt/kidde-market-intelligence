@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-07-29T08:31:04.965204",
+  "lastUpdate": "2026-07-30T08:15:20.794002",
   "regulations": [
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "América Latina",
       "title": "ABNT NBR 17240:2010 - Norma de Desempenho",
       "impact": "Alto",
@@ -10,31 +10,31 @@
       "source": "https://normadedesempenho.com.br/wp-content/uploads/2022/10/NBR_17240_2010.pdf"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "América Latina",
-      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de ...",
+      "title": "O que diz a norma ABNT NBR 17240 sobre sistemas de detecção e ...",
       "impact": "Alto",
-      "description": "A norma ABNT NBR 17240, publicada pela Associação Brasileira de Normas Técnicas (ABNT), estabelece os critérios para projeto, instalação, opera ...",
+      "description": "Ou seja, ela define as regras para que esses sistemas sejam projetados corretamente e funcionem de forma eficiente, garantindo que um incêndio ...",
       "source": "https://www.bucka.com.br/o-que-diz-a-norma-abnt-nbr-17240-sobre-sistemas-de-deteccao-e-alarme-de-incendios/"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "América Latina",
-      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010, Condiciones de ...",
+      "title": "NORMA Oficial Mexicana NOM-002-STPS-2010 ...",
       "impact": "Alto",
       "description": "Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo. 2. Campo de aplicación. La presente Norma rige en todo ...",
       "source": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "América Latina",
-      "title": "¿Qué exige la NOM-002-STPS en sistemas contra incendios? Guía 2024",
+      "title": "¿Qué exige la NOM-002-STPS en sistemas contra ...",
       "impact": "Alto",
       "description": "Su objetivo principal es minimizar los riesgos de incendio y garantizar que, en caso de ocurrir, existan mecanismos efectivos para controlarlo, ...",
       "source": "https://koltek.mx/blog/nom-002"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "Chile",
       "title": "Incendios forestales en Chile de 2025",
       "impact": "Alto",
@@ -42,7 +42,7 @@
       "source": "https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2025"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "Chile",
       "title": "Ley Chile - Decreto 52 08-FEB-2025 MINISTERIO DEL INTERIOR Y ...",
       "impact": "Alto",
@@ -50,7 +50,7 @@
       "source": "https://www.bcn.cl/leychile/Navegar?idNorma=1210982&idVersion=2025-02-08"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "Colômbia",
       "title": "YouTube",
       "impact": "Alto",
@@ -58,12 +58,12 @@
       "source": "https://www.youtube.com/watch?v=snkNIHtaBxE"
     },
     {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "country": "Colômbia",
       "title": "Normativas de seguridad contra incendios en Colombia - Guía",
       "impact": "Alto",
       "description": "El NSR-10 detalla requisitos específicos sobre materiales resistentes al fuego, salidas de emergencia, sistemas de detección y extinción de ...",
-      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOorobxIzvWZ3LC4p8YuwqFMuMdGAs43GrgpL0nuENPzJ90-wDZji"
+      "source": "https://exsolven.com.co/normativas-de-seguridad-contra-incendios-colombia/?srsltid=AfmBOooERCLF1SCc3MOTaLmJBjcF_cGz7cy8dqgPt46rxyTVnYy--CMm"
     }
   ],
   "macroEconomic": [
@@ -74,7 +74,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/brazil/gdp-from-construction"
+      "source": ""
     },
     {
       "country": "Mexico",
@@ -83,7 +83,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.dallasfed.org/research/update/mex/2026/2601"
+      "source": ""
     },
     {
       "country": "Chile",
@@ -92,7 +92,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/chile/gdp-from-construction"
+      "source": ""
     },
     {
       "country": "Colombia",
@@ -101,7 +101,7 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://www.bbvaresearch.com/en/publicaciones/colombia-gdp-2025-a-demand-led-recovery/"
+      "source": ""
     },
     {
       "country": "Argentina",
@@ -110,53 +110,12 @@
       "construction": "Verificar fonte",
       "investment": "Verificar fonte",
       "trend": "neutral",
-      "source": "https://tradingeconomics.com/argentina/gdp-growth-annual"
+      "source": ""
     }
   ],
   "competitorMoves": [],
   "newProducts": [],
-  "majorProjects": [
-    {
-      "project": "Compras.gov.br",
-      "country": "Brasil",
-      "value": "N/A",
-      "winner": "Em licitação",
-      "status": "Aberto",
-      "contacts": "Verificar fonte",
-      "scope": "Edital a partir de: 07/05/2025 das 08:00 às 12:00 Hs e das 14: ... 2 - Manutenção de Sistemas de Proteção Contra Incêndio Manutenção de sistemas de detecção ...",
-      "source": "https://www.comprasnet.gov.br/acesso.asp?url=/edital-410072-5-90005-2025"
-    },
-    {
-      "project": "Brasil Constrói a Estação mais Profunda da América Latina",
-      "country": "América Latina",
-      "value": "N/A",
-      "winner": "Em licitação",
-      "status": "Aberto",
-      "contacts": "Verificar fonte",
-      "scope": "Conheça o avanço das obras da Linha 6-Laranja e a profundidade da Estação Água Branca. Veja como o projeto vai mudar o transporte em SP.",
-      "source": "https://www.youtube.com/watch?v=JI9oXw0szpU&vl=en-US"
-    },
-    {
-      "project": "Hospital BovenIj opta por un sistema inteligente de seguridad contra ...",
-      "country": "América Latina",
-      "value": "N/A",
-      "winner": "Em licitação",
-      "status": "Aberto",
-      "contacts": "Verificar fonte",
-      "scope": "El nuevo sistema de alarma contra incendios altamente digitalizado del hospital BoveNij en Ámsterdam garantiza notificaciones confiables, promoviendo así ...",
-      "source": "https://www.siemens.com/es-mx/company/insights/success-stories/bovenij-hospital-smart-fire-safety-system/"
-    },
-    {
-      "project": "Common Causes of Fire in Shopping Malls and How to Prevent Them",
-      "country": "Chile",
-      "value": "N/A",
-      "winner": "Em licitação",
-      "status": "Aberto",
-      "contacts": "Verificar fonte",
-      "scope": "Explore common fire causes in shopping malls, from electrical faults to food court hazards, and learn prevention strategies to ensure ...",
-      "source": "https://fsm.how/fire-safety/common-causes-fire-shopping-malls/"
-    }
-  ],
+  "majorProjects": [],
   "peopleMovements": [],
   "experts": []
 }
